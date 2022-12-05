@@ -14,6 +14,8 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 ## Usage
 Copy templates to your Obsidian template folder location to make them available as templates within Obsidian.
 
+More about: https://help.obsidian.md/Plugins/Templates
+
 ### Obsidian Plugins needed
 - Book Search: https://github.com/anpigon/obsidian-book-search-plugin
 - Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
