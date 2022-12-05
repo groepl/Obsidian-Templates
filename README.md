@@ -26,20 +26,20 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 ### List of Templates
 
-### Basic
+#### Basic
 - Note Template
 - Sketchnote Template
 
-### Bibliographical Notes
+#### Bibliographical Notes
 - Author Template
 - Book Template
 - Expert Template
 - Quote Template
 
-### Structure Notes
+#### Structure Notes
 - Structure Template
 
-### Special
+#### Special
 - Bullet Journal - Daily Log
 - Bullet Journal - Future Log
 - Bullet Journal - Monthly Log
