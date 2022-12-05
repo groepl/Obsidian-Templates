@@ -41,14 +41,14 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 #### Special
 - [Bullet Journal - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Daily%20Log.md)
-- Bullet Journal - Future Log
-- Bullet Journal - Monthly Log
-- Bullet Journal - Weekly Log
-- Frontmatter Book Template
-- Frontmatter Template
-- Table template
-- Term Template
-- Tool Template
+- [Bullet Journal - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Future%20Log.md)
+- [Bullet Journal - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Monthly%20Log.md)
+- [Bullet Journal - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Weekly%20Log.md)
+- [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
+- [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
+- [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md)
+- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ## FAQ
 Feel free to ask.
