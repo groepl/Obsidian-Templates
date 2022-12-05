@@ -32,7 +32,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 #### Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Author%20Template.md)
-- Book Template
+- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Book%20Template.md)
 - Expert Template
 - Quote Template
 
