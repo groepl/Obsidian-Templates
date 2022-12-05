@@ -54,5 +54,5 @@ More about: https://help.obsidian.md/Plugins/Templates
 Feel free to ask.
 
 ## Contact
-Please leave feedback here in the GitHub discussions or file a new issue if you found a bug or have a feature request. You can reach me via Mastodon, too: [https://darmstadt.social/@groepl](https://darmstadt.social/@groepl)
+Please leave feedback here in the GitHub discussions or file a new issue if you found a bug or have a feature request. You can reach me via Mastodon too: [https://darmstadt.social/@groepl](https://darmstadt.social/@groepl)
 
