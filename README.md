@@ -15,10 +15,15 @@ More about: https://www.soenkeahrens.de/en/takesmartnotes
 Copy templates to your Obsidian template folder location to make them available as templates within Obsidian.
 
 ### Obsidian Plugins needed
-
+- Book Search: https://github.com/anpigon/obsidian-book-search-plugin
+- Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
+- DataView: https://github.com/blacksmithgu/obsidian-dataview
+- Periodic Noites: https://github.com/liamcain/obsidian-periodic-notes
+- Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
+- Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
 ### List of Templates
-- Obsidian Wikipedia
-- Obsidian Book Search: https://github.com/anpigon/obsidian-book-search-plugin
+
 
 ## FAQ
+Feel free to ask.
