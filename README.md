@@ -27,24 +27,30 @@ More about: https://help.obsidian.md/Plugins/Templates
 ### List of Templates
 
 ### Basic
-Note Template
-Sketchnote Template
+- Note Template
+- Sketchnote Template
+
+### Bibliographical Notes
+- Author Template
+- Book Template
+- Expert Template
+- Quote Template
+
+### Structure Notes
+- Structure Template
 
 ### Special
-Author Template
-Book Template
-Bullet Journal - Daily Log
-Bullet Journal - Future Log
-Bullet Journal - Monthly Log
-Bullet Journal - Weekly Log
-Expert Template
-Frontmatter Book Template
-Frontmatter Template
-Quote Template
-Structure Template
-Table template
-Term Template
-Tool Template
+- Bullet Journal - Daily Log
+- Bullet Journal - Future Log
+- Bullet Journal - Monthly Log
+- Bullet Journal - Weekly Log
+
+- Frontmatter Book Template
+- Frontmatter Template
+
+- Table template
+- Term Template
+- Tool Template
 
 ## FAQ
 Feel free to ask.
