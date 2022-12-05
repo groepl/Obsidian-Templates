@@ -27,7 +27,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 ### List of Templates
 
 #### Basic
-- [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/_Note%20Template.md)
+- [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/_Sketchnote%20Template.md)
 
 #### Bibliographical Notes
