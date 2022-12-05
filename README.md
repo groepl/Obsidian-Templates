@@ -27,8 +27,8 @@ More about: https://help.obsidian.md/Plugins/Templates
 ### List of Templates
 
 #### Basic
-- Note Template
-- Sketchnote Template
+- [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/_Note%20Template.md)
+- [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/_Sketchnote%20Template.md)
 
 #### Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Author%20Template.md)
@@ -44,10 +44,8 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Bullet Journal - Future Log
 - Bullet Journal - Monthly Log
 - Bullet Journal - Weekly Log
-
 - Frontmatter Book Template
 - Frontmatter Template
-
 - Table template
 - Term Template
 - Tool Template
