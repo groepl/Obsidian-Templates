@@ -31,7 +31,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Sketchnote Template
 
 #### Bibliographical Notes
-- Author Template
+- [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Author%20Template.md)
 - Book Template
 - Expert Template
 - Quote Template
