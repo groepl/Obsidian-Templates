@@ -25,6 +25,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
 ### List of Templates
+
 ### Basic
 Note Template
 Sketchnote Template
