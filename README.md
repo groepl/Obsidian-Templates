@@ -18,7 +18,7 @@ Copy templates to your Obsidian template folder location to make them available 
 - Book Search: https://github.com/anpigon/obsidian-book-search-plugin
 - Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
 - DataView: https://github.com/blacksmithgu/obsidian-dataview
-- Periodic Noites: https://github.com/liamcain/obsidian-periodic-notes
+- Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
 - Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
 - Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
