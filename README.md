@@ -47,7 +47,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
 - [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
-- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md)
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) - - needs plugin: Wikipedia
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ## FAQ
