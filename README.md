@@ -34,13 +34,13 @@ More about: https://help.obsidian.md/Plugins/Templates
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) - Book Search plugin needed
 - [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
-- Quote Template
+- [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
 
 #### Structure Notes
-- Structure Template
+- [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
 
 #### Special
-- Bullet Journal - Daily Log
+- [Bullet Journal - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Daily%20Log.md)
 - Bullet Journal - Future Log
 - Bullet Journal - Monthly Log
 - Bullet Journal - Weekly Log
