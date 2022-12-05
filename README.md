@@ -25,7 +25,25 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
 ### List of Templates
+### Basic
+Note Template
+Sketchnote Template
 
+### Special
+Author Template
+Book Template
+Bullet Journal - Daily Log
+Bullet Journal - Future Log
+Bullet Journal - Monthly Log
+Bullet Journal - Weekly Log
+Expert Template
+Frontmatter Book Template
+Frontmatter Template
+Quote Template
+Structure Template
+Table template
+Term Template
+Tool Template
 
 ## FAQ
 Feel free to ask.
