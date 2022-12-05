@@ -28,12 +28,12 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 #### Basic
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
-- [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/_Sketchnote%20Template.md)
+- [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 
 #### Bibliographical Notes
-- [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Author%20Template.md)
-- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Book%20Template.md) - Book Search plugin needed
-- [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Expert%20Template.md)
+- [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
+- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) - Book Search plugin needed
+- [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
 - Quote Template
 
 #### Structure Notes
