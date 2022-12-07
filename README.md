@@ -51,7 +51,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ## FAQ
-Feel free to ask.
+- Where can I discuss my own experiences with these templates? - https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten/
 
 ## Creative Commons License
 [Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2022 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
