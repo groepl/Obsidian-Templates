@@ -4,7 +4,7 @@ tags: type/quote
 #theme/ - build cluster 
 #index/ - define entry point
 #
-#type/ - how note looks like
+#type/ - note characteristics
 #source/ - where note comes from
 #target/ - where note will go to
 #
@@ -19,13 +19,17 @@ author:
 year:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+#
 template-type: Quote
-template-version: "1.0"
+template-version: "1.2"
+#
+cc: "CC BY-SA 4.0"
+legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 
 # {{Title}}
 
-<!-- TERM Definition of term goes here -->
+<!-- QUOTE and Author goes here -->
 > [!QUOTE]
 > .
 

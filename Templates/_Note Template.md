@@ -3,7 +3,7 @@ tags: type/note
 #theme/ - build cluster 
 #index/ - define entry point
 # 
-#type/ - how note looks like
+#type/ - note characteristics
 #source/ - where note comes from
 #target/ - where note will go to
 # 
@@ -13,11 +13,16 @@ tags: type/note
 #structure/ - from #type/structure
 #visual/ - from #type/visual
 #
-aliases: 
+aliases:
+#
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+#
 template-type: Note
-template-version: "1.0"
+template-version: "1.1"
+#
+cc: "CC BY-SA 4.0"
+legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 
 # {{Title}}

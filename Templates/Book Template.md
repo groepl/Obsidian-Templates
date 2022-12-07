@@ -3,7 +3,7 @@ tags: type/book
 #theme/ - build cluster 
 #index/ - define entry point
 #
-#type/ - how note looks like
+#type/ - note characteristics
 #source/ - where note comes from
 #target/ - where note will go to
 #
@@ -12,6 +12,7 @@ tags: type/book
 #role/ - from #type/person
 #structure/ - from #type/structure
 #visual/ - from #type/visual
+#
 aliases: 
 #
 title: "{{title}}"
@@ -35,10 +36,15 @@ date:
 read: 
 status: undefined
 # status: backlog, to read, reading, completed, stopped
+#
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+#
 template-type: Book
-template-version: "1.0"
+template-version: "1.1"
+#
+cc: "CC BY-SA 4.0"
+legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 
 ![cover|150]({{coverUrl}})
