@@ -12,7 +12,6 @@
 
 
 
-
 # Obsidian-Templates for Zettelkasten
 A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 
