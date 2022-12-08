@@ -2,6 +2,8 @@
 
 ![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github)
 
+![](https://badgen.net/twitter/follow/groepl@darmstadt.social?icon=github)
+
 ![](https://badgen.net/mastodon/follow/Gargron@mastodon.social?icon=github)
 
 
