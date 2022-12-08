@@ -4,7 +4,7 @@
 
 ![](https://badgen.net/github/license/metawops/obsidian-table-to-csv-export?icon=github&color=grey)
 
-![](https://badgen.net/github/LICENSE/groepl/Obsidian-Templates?icon=github&color=grey)
+![](https://badgen.net/github/license/groepl/Obsidian-Templates?icon=github&color=grey)
 
 
 
