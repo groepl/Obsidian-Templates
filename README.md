@@ -1,6 +1,6 @@
 ![](https://badgen.net/github/release/groepl/Obsidian-Templates/?icon=github)
 
-![](https://badgen.net/mastodon/follow/Gargron@mastodon.social?icon=github)
+![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github)
 
 
 
