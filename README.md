@@ -1,9 +1,5 @@
 ![](https://badgen.net/github/release/groepl/Obsidian-Templates/?icon=github) ![](https://badgen.net/github/stars/groepl/Obsidian-Templates?icon=github&color=cyan) ![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) ![](https://badgen.net/twitter/follow/groepl?icon=github)
 
-![](https://badgen.net/github/assets-dl/groepl/groepl?icon=github)
-
-
-
 
 # Obsidian-Templates for Zettelkasten
 A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
