@@ -2,6 +2,10 @@
 
 ![](https://badgen.net/mastodon/follow/@groepl@darmstadt.social?icon=github)
 
+![](https://badgen.net/mastodon/follow/Gargron@mastodon.social?icon=github)
+
+
+
 ![](https://badgen.net/github/license/metawops/obsidian-table-to-csv-export?icon=github&color=grey)
 
 ![](https://badgen.net/github/license/groepl/Obsidian-Templates?icon=github&color=grey)
