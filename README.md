@@ -54,7 +54,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 ## FAQ
 - Where can I discuss my own experiences with these templates? - https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten/
 
-https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/49098
+https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/
 
 ## Creative Commons License
 [Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2022 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
