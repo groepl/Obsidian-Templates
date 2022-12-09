@@ -14,6 +14,7 @@ Opening the "Templates" folder:
 ## Literature and Permanent Notes
 ### Note Example
 ### Sketchnote Example
+<img src="/Visuals/sketchnote_template.jpg width="300" />
 ### Term Example
 ### Tool Example
 
