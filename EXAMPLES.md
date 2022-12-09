@@ -15,6 +15,7 @@ Opening the "Templates" folder:
 ### Note Example
 ### Sketchnote Example
 <img src="/Visuals/sketchnote_template.jpg" width="300" />
+
 ### Term Example
 ### Tool Example
 
