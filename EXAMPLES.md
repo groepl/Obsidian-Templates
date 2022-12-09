@@ -4,7 +4,7 @@ Using templates is a great concept to save time in creation and grooming of your
 
 Here is the overall structure of my Zettelkasten:
 
-<img src="/Visuals/folders.jpg" width="300" />
+<img src="/Visuals/folders.jpg" width="250" />
 
 Opening the "Templates" folder:
 
@@ -14,7 +14,7 @@ Opening the "Templates" folder:
 ## Literature and Permanent Notes
 ### Note Example
 ### Sketchnote Example
-<img src="/Visuals/sketchnote_template.jpg" width="350" />
+<img src="/Visuals/sketchnote_template.jpg" width="300" />
 
 ### Term Example
 ### Tool Example
