@@ -33,23 +33,23 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Update Time on Edit : https://github.com/beaussan/update-time-on-edit-obsidian
 - Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
-### List of Templates
+## List of Templates
 You first may have a look at my example notes created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
-#### Literature and Permanent Notes
+### Literature and Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 
-#### Bibliographical Notes
+### Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) -> needs plugin: Book Search 
 - [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
 
-#### Structure Notes
+### Structure Notes
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
 
-#### Special
+### Special
 - [Bullet Journal - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Daily%20Log.md)
 - [Bullet Journal - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Future%20Log.md)
 - [Bullet Journal - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Monthly%20Log.md)
