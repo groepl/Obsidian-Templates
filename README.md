@@ -34,6 +34,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
 
 ### List of Templates
+Here are some example notes created from templates: [EXAMPLE.md]
 
 #### Literature and Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
