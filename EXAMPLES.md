@@ -11,7 +11,7 @@ Opening the "Templates" folder:
 <img src="/Visuals/folders_templates.PNG" width="250" />
 
 
-## Literature and Permanent Notes
+## Templates for Literature and Permanent Notes
 ### Note Example
 ### Sketchnote Example
 <img src="/Visuals/sketchnote_template.jpg" width="300" />
@@ -19,7 +19,7 @@ Opening the "Templates" folder:
 ### Term Example
 ### Tool Example
 
-## Bibliographical Notes
+## Templates for Bibliographical Notes
 ### Author Example
 <img src="/Visuals/author_template_example.jpg" width="250" />
 
@@ -30,5 +30,5 @@ Opening the "Templates" folder:
 ### Quote Example
 <img src="/Visuals/quote_template_example.jpg" width="250" />
 
-## Structure Notes
+## Templates for Structure Notes
 ### Structure Example
