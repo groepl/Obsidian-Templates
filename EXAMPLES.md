@@ -8,13 +8,13 @@ Here is the overall structure of my Zettelkasten:
 
 Opening the "Templates" folder:
 
-<img src="/Visuals/folders_templates.PNG" width="300" />
+<img src="/Visuals/folders_templates.PNG" width="250" />
 
 
 ## Literature and Permanent Notes
 ### Note Example
 ### Sketchnote Example
-<img src="/Visuals/sketchnote_template.jpg" width="300" />
+<img src="/Visuals/sketchnote_template.jpg" width="250" />
 
 ### Term Example
 ### Tool Example
