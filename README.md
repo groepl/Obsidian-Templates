@@ -30,7 +30,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 ### List of Templates
 
-#### Basic
+#### Literature and Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 
