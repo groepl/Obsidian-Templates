@@ -11,3 +11,17 @@ Opening the "Templates" folder:
 <img src="/Visuals/folders_templates.PNG" width="300" />
 
 
+## Literature and Permanent Notes
+### Note Example
+### Sketchnote Example
+### Term Example
+### Tool Example
+
+## Bibliographical Notes
+### Author Example
+### Book Example
+### Expert Example
+### Quote Example
+
+## Structure Notes
+### Structure Example
