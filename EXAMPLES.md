@@ -28,7 +28,7 @@ Opening the "Templates" folder:
 
 ### Expert Example
 ### Quote Example
-<img src="/Visuals/quote_template_example.jpg" width="500" />
+<img src="/Visuals/quote_template_example.jpg" width="250" />
 
 ## Structure Notes
 ### Structure Example
