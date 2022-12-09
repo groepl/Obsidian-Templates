@@ -21,6 +21,8 @@ Opening the "Templates" folder:
 
 ## Bibliographical Notes
 ### Author Example
+<img src="/Visuals/author_template_example.jpg" width="300" />
+
 ### Book Example
 ### Expert Example
 ### Quote Example
