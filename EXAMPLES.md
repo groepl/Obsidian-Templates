@@ -24,6 +24,8 @@ Opening the "Templates" folder:
 <img src="/Visuals/author_template_example.jpg" width="300" />
 
 ### Book Example
+<img src="/Visuals/book_template_example.jpg" width="350" />
+
 ### Expert Example
 ### Quote Example
 
