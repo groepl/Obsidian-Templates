@@ -1,7 +1,9 @@
-![](https://badgen.net/github/release/groepl/Obsidian-Templates/?icon=github) ![](https://badgen.net/github/releases/groepl/Obsidian-Templates/?icon=github) ![](https://badgen.net/github/assets-dl/groepl/Obsidian-Templates/?icon=github) 
+![](https://badgen.net/github/release/groepl/Obsidian-Templates/?icon=github) ![](https://badgen.net/github/releases/groepl/Obsidian-Templates/?icon=github) ![](https://badgen.net/github/commits/groepl/Obsidian-Templates/?icon=github) 
 ![](https://badgen.net/github/stars/groepl/Obsidian-Templates?icon=github) ![](https://badgen.net/mastodon/follow/groepl@darmstadt.social?icon=github) ![](https://badgen.net/twitter/follow/groepl?icon=github) ![](https://badgen.net/github/license/groepl/Obsidian-Templates/)
 
-/github/assets-dl/electron/electron
+/github/assets-dl/
+/github/watchers/
+/github/commits/
 
 
 # Obsidian-Templates for Zettelkasten
