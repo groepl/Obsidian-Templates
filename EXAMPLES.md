@@ -6,11 +6,6 @@ Here is the overall structure of my Zettelkasten:
 
 <img src="/Visuals/folders.jpg" width="250" />
 
-Opening the **Templates** folder:
-
-<img src="/Visuals/folders_templates.PNG" width="250" />
-
-
 ## Templates for Literature and Permanent Notes
 ### Note Example
 ### Sketchnote Example
