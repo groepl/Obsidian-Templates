@@ -45,7 +45,7 @@ You first may have a look at my example notes created from these templates: [EXA
 
 ### Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
-- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
+- [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) - needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
 - [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
 
@@ -60,7 +60,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
 - [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
-- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: Wikipedia
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) - needs plugin: Wikipedia
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ## FAQ
