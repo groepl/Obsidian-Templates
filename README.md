@@ -40,6 +40,8 @@ You first may have a look at my example notes created from these templates: [EXA
 ### Literature and Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: Wikipedia
+- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ### Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
