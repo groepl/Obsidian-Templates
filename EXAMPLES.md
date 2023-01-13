@@ -18,14 +18,14 @@ All templates are stored in the Templates folder.
 
 ## Templates for Bibliographical Notes
 ### Author Example
-<img src="/Visuals/author_template_example.jpg" width="250" />
+<img src="/Visuals/author_template_example.jpg" width="200" />
 
 ### Book Example
 <img src="/Visuals/book_template_example.jpg" width="300" />
 
 ### Expert Example
 ### Quote Example
-<img src="/Visuals/quote_template_example.jpg" width="250" />
+<img src="/Visuals/quote_template_example.jpg" width="200" />
 
 ## Templates for Structure Notes
 ### Structure Example
