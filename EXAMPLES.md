@@ -11,7 +11,7 @@ All templates are stored in the Templates folder.
 ## Templates for Literature and Permanent Notes
 ### Note Template Example
 ### Sketchnote Example
-<img src="/Visuals/sketchnote_template.jpg" width="300" />
+- <img src="/Visuals/sketchnote_template.jpg" width="300" />
 
 ### Term Example
 ### Tool Example
