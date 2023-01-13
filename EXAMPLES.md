@@ -21,7 +21,7 @@ All templates are stored in the Templates folder.
 <img src="/Visuals/author_template_example.jpg" width="250" />
 
 ### Book Example
-<img src="/Visuals/book_template_example.jpg" width="500" />
+<img src="/Visuals/book_template_example.jpg" width="300" />
 
 ### Expert Example
 ### Quote Example
