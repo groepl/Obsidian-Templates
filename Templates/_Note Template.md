@@ -19,7 +19,7 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Note
-template-version: "1.1"
+template-version: "1.3"
 #
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
@@ -28,17 +28,18 @@ legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 # {{Title}}
 
 <!-- Main content of my thoughts really -->
-- .
 
+> [!NOTE]
+> .
 
 ---
 ## Questions
 <!-- What remains for you to consider? --> 
-- .
+- 
 
 ## Terms
 <!-- Links to definition pages -->
-- .
+- 
 
 ## References
 <!-- Links to pages not referenced in the content -->

@@ -19,7 +19,7 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Term
-template-version: "1.1"
+template-version: "1.2"
 #
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
@@ -29,20 +29,11 @@ legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 <!-- TERM Definition of term goes here -->
 
+
+
 ---
 ## References
 <!-- Links to pages not referenced in the content -->
 - 
-
-
-
-
-
-
-
-
-
-
-
 
 

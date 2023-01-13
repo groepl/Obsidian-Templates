@@ -19,13 +19,12 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: BuJo Monthly
-template-version: "1.1"
+template-version: "1.2"
 #
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 # {{Title}}
-2022-05-14, 20:13
 
 <!-- Main STRUCTURE of my content -->
 

@@ -19,13 +19,12 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: BuJo Future
-template-version: "1.1"
+template-version: "1.2"
 #
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 ---
 # Future Log {{Title}}
-2022-03-24, 20:37
 
 <!-- Main STRUCTURE of my content -->
 [Future Log Archive](Future%20Log%20Archive.md) | [[2023]] | [Ideas 2022](Ideas%202022.md) | [Vision Board 2022](Vision%20Board%202022.md)

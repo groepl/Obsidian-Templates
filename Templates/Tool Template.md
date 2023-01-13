@@ -19,7 +19,7 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Tool
-template-version: "1.1"
+template-version: "1.3"
 #
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
@@ -36,7 +36,7 @@ legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 It is a preferred tool to …
 
-Here are my pros and cons from this [[Use case]].
+Here are my pros and cons from this use case:
 
 
 ## Pros
@@ -47,6 +47,6 @@ Here are my pros and cons from this [[Use case]].
 - 
 
 ---
-##### References
+## References
 <!-- Links to pages not referenced in the content -->
 -
