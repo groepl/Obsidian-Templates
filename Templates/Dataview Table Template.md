@@ -1,7 +1,3 @@
----
-created: 2023-01-26, 18:33
-modified: 2023-01-26, 18:40
----
 <!-- DataView table, use example and modify -->
 ```dataview
 TABLE WITHOUT ID
