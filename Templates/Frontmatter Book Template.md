@@ -38,13 +38,13 @@ status: undefined
 # status: backlog, to read, reading, completed, stopped
 #
 created: 2022-12-07, 21:45
-modified: 2022-12-07, 21:57
+modified: 2023-01-26, 18:34
 #
 template-type: Frontmatter Book
-template-version: "1.1"
-#
+template-version: "1.2"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 

@@ -19,10 +19,10 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Note
-template-version: "1.3"
-#
+template-version: "1.4"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}

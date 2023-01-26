@@ -41,10 +41,10 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Book
-template-version: "1.1"
-#
+template-version: "1.3"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
 
 ![cover|150]({{coverUrl}})
@@ -60,7 +60,7 @@ by [[{{author}}]]
 
 ## Table of Contents
 <!--Link to table of contents (TOC) -->
-
+- 
 
 ## Notes
 <!-- The main content of my thoughts really -->

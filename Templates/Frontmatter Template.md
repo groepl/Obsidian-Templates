@@ -19,8 +19,8 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 #
 template-type: Frontmatter
-template-version: "1.1"
-#
+template-version: "1.2"
 cc: "CC BY-SA 4.0"
 legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+source: https://github.com/groepl/Obsidian-Templates
 ---
