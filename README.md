@@ -71,6 +71,9 @@ You first may have a look at my example notes created from these templates: [EXA
 ## FAQ
 - Where can I discuss my own experiences with these templates?
 https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/
+- Frontmatter
+- How to use Tags and Nested Tags in Obsidian? 
+https://help.obsidian.md/Editing+and+formatting/Tags
 
 ## Creative Commons License
 [Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2022 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
