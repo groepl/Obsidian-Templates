@@ -61,7 +61,6 @@ source: https://github.com/groepl/Obsidian-Templates
 <!-- Record of decisions you make in this meeting -->
 - Next meeting date and place: 
 - Documents to be included in the meeting notes:
-	- 
 
 ---
 ## Questions
