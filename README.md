@@ -66,7 +66,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Dataview Table Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
 - [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
 - [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
-- [Meeting Notes Template]()
+- [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Meeting%20Notes%20Template.md)
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 
 ## FAQ
