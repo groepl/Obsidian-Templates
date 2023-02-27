@@ -15,7 +15,7 @@ Obsidian is a note-taking and knowledge management app from Shida Li and Erica X
 More about: https://obsidian.md
 
 ## Zettelkasten
-A Zettelkasten is a personal tool for thinking and writing. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
+Zettelkasten is a personal tool for thinking and writing created by Niklas Luhmann. It has hypertextual features to make a web of thought possible. The difference to other systems is that you create a web of thoughts instead of notes of arbitrary size and form, and emphasize connection, not a collection.
 
 More about: https://www.soenkeahrens.de/en/takesmartnotes
 
