@@ -10,7 +10,7 @@
 A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 
 ## Obsidian
-Obsidian is a note-taking and knowledge management app on top of a local folder of plain text Markdown files. It lets you turn a collection of plain text files into a rich network of linked thought.
+Obsidian is a note-taking and knowledge management app from Shida Li and Erica Xu. It works on top of a local folder of plain text Markdown files and lets you turn a collection of plain text files into a rich network of linked thought.
 
 More about: https://obsidian.md
 
