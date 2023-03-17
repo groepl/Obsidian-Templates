@@ -55,7 +55,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
 
 ### Project Notes
-- [Outline E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20E-book%20Template.md)- needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
+- [Outline E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20E-book%20Template.md) - needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
 - [Outline Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20Instagram%20Template.md) 
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
 
