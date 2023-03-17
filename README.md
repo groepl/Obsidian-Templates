@@ -26,6 +26,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 
 ### Obsidian Plugins needed
 - Banners: https://github.com/noatpad/obsidian-banners
+- Better Word Count: https://github.com/lukeleppan/better-word-count
 - Book Search: https://github.com/anpigon/obsidian-book-search-plugin
 - Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
 - DataView: https://github.com/blacksmithgu/obsidian-dataview
