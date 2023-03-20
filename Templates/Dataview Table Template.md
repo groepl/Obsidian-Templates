@@ -1,3 +1,4 @@
+
 <!-- DataView table, use example and modify -->
 ```dataview
 TABLE WITHOUT ID
@@ -27,6 +28,8 @@ SORT file.name ASC
 
 WHERE read = 2023
 WHERE status = "open"
+WHERE contains(file.name,"LernOS Zettelkasten")
+
 ---
 More about: 
 https://github.com/blacksmithgu/obsidian-dataview/blob/master/docs/docs/queries/query-types.md
