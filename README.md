@@ -32,7 +32,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - DataView: https://github.com/blacksmithgu/obsidian-dataview
 - Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
 - Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
-- Update Time on Edit : https://github.com/beaussan/update-time-on-edit-obsidian
+- [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
 - [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ## List of Templates
