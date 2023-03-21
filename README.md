@@ -74,6 +74,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Metadata with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Metadata)
 - [How to use Tags and Nested Tags in Obsidian?](https://help.obsidian.md/Editing+and+formatting/Tags)
+- [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
 
 ## Creative Commons License
 [Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2023 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
