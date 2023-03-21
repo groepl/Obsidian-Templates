@@ -28,7 +28,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - [Better Word Count](https://github.com/lukeleppan/better-word-count) - When you select text, it will count the selected words instead of the whole document.
 - [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
-- Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
+- [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 - DataView: https://github.com/blacksmithgu/obsidian-dataview
 - Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
 - Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
