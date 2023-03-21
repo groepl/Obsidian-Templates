@@ -20,9 +20,9 @@ Zettelkasten is a personal tool for thinking and writing created by Niklas Luhma
 More about: https://www.soenkeahrens.de/en/takesmartnotes
 
 ## Usage
-Copy templates to your Obsidian template folder location to make them available as templates within Obsidian.
+Copy templates to your Obsidian template folder location to make them available as templates within Obsidian. More about: https://help.obsidian.md/Plugins/Templates
 
-More about: https://help.obsidian.md/Plugins/Templates
+Or use it as part of the [](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit).
 
 ### Obsidian Plugins needed
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
