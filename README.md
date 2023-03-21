@@ -29,7 +29,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - [Better Word Count](https://github.com/lukeleppan/better-word-count) - When you select text, it will count the selected words instead of the whole document.
 - [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
 - [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
-- DataView: https://github.com/blacksmithgu/obsidian-dataview
+- [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages. 
 - Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
 - Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
 - [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
