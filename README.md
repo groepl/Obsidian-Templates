@@ -25,7 +25,7 @@ Copy templates to your Obsidian template folder location to make them available 
 More about: https://help.obsidian.md/Plugins/Templates
 
 ### Obsidian Plugins needed
-- Banners: https://github.com/noatpad/obsidian-banners
+- [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - Better Word Count: https://github.com/lukeleppan/better-word-count
 - Book Search: https://github.com/anpigon/obsidian-book-search-plugin
 - Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
