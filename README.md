@@ -71,9 +71,8 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 
 ## FAQ
-- Where can I discuss my own experiences with these templates?
-https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/
-- What are the rules for using Metadata with YAML Frontmatter?
+- [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/
+- What are the rules for using Metadata with YAML Frontmatter?)
 https://help.obsidian.md/Editing+and+formatting/Metadata
 - How to use Tags and Nested Tags in Obsidian? 
 https://help.obsidian.md/Editing+and+formatting/Tags
