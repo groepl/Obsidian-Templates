@@ -27,7 +27,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 ### Obsidian Plugins needed
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - [Better Word Count](https://github.com/lukeleppan/better-word-count) - When you select text, it will count the selected words instead of the whole document.
-- Book Search: https://github.com/anpigon/obsidian-book-search-plugin
+- Book Search: https://github.com/anpigon/obsidian-book-search-plugin - Easily create book notes from
 - Frontmatter Tag Suggest : https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest
 - DataView: https://github.com/blacksmithgu/obsidian-dataview
 - Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
