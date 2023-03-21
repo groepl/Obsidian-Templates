@@ -33,7 +33,7 @@ More about: https://help.obsidian.md/Plugins/Templates
 - Periodic Notes: https://github.com/liamcain/obsidian-periodic-notes
 - Table-to-CSV-Exporter : https://github.com/metawops/obsidian-table-to-csv-export
 - Update Time on Edit : https://github.com/beaussan/update-time-on-edit-obsidian
-- Wikipedia: https://github.com/jmilldotdev/obsidian-wikipedia
+- [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ## List of Templates
 You first may have a look at my example notes created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
