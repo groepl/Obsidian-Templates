@@ -6,10 +6,11 @@ tags: type/tool
 aliases: 
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Tool
 template-version: "1.4"
 cc: "CC BY-SA 4.0"
-legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
 source: https://github.com/groepl/Obsidian-Templates
 ---
 

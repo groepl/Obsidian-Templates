@@ -19,10 +19,11 @@ bar: <progress max=100 value=0></progress> 0% first ideas
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template_type: Ebook
 template_version: "1.7"
 cc: "CC BY-SA 4.0"
-legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
 source: https://github.com/groepl/Obsidian-Templates
 ---
 

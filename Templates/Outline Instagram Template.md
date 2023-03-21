@@ -7,10 +7,11 @@ aliases:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline Instagram"
 template-version: "1.4"
 cc: "CC BY-SA 4.0"
-legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
 source: https://github.com/groepl/Obsidian-Templates
 ---
 

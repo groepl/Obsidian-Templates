@@ -6,10 +6,11 @@ tags: type/question
 aliases:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Question
 template-version: "1.3"
 cc: "CC BY-SA 4.0"
-legalcode: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
 source: https://github.com/groepl/Obsidian-Templates
 ---
 

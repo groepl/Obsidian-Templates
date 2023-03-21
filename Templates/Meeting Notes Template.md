@@ -6,6 +6,7 @@ tags: type/meeting
 aliases:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
+# -> https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Meeting
 template-version: "1.7"
 cc: "CC BY-SA 4.0"
