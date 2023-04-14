@@ -1,9 +1,9 @@
 ---
 tags: type/book
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
+lead: 
+# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 title: "{{title}}"
 subtitle: {{subtitle}}
 author: {{author}}
@@ -20,19 +20,18 @@ isbn10: {{isbn10}}
 description:
 link: {{link}}
 preview_link: {{preview_link}}
+# --- Install plugin: https://github.com/anpigon/obsidian-book-search-plugin
 rating: 
 date:
 read: 
 status: undefined
-# status: backlog, to read, reading, completed, stopped
+# --- status: backlog, to read, reading, completed, stopped
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Book
-template-version: "1.4"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.5"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 ![cover|150]({{coverUrl}})

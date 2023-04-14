@@ -1,23 +1,28 @@
 ---
 tags: type/term
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
+lead: Term definition goes here
+source: source undefined
+visual:
+# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Term
-template-version: "1.3"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.8"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
 
-<!-- TERM Definition of term goes here -->
+<!-- Term definition and source from frontmatter goes here. Also used for Dataview glossary. -->
 
+> [!Definition]
+> `= this.lead`
+>  — `= this.source`
+
+<!-- Additional term description if needed -->
 
 
 ---

@@ -1,21 +1,17 @@
 ---
-tags: type/outline target/linkedin 
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+tags: type/post target/linkedin 
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline LinkedIn"
-template-version: "1.4"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.7"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
-# {{Title}} - LinkedIn
+# {{Title}} - Post
 
 <!-- What remains to be done do get the final version? --> 
 - [ ] Prepare final version 

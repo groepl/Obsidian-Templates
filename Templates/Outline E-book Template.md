@@ -1,8 +1,6 @@
 ---
 tags: type/chapter target/ebook 
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
 title_short: "e1"
 chapter: "0.0"
@@ -12,19 +10,18 @@ status: draft
 # status: draft, final, published, revised
 word_count: 0
 feedback: 0
-bar: <progress max=100 value=0></progress> 0% first ideas
+bar: <progress max=100 value=0></progress><br>0% first ideas
 # 10% takeaway promised, 20% used for teaching, 30% value offered
 # 40% front-loaded value, 50% high value-per-page, 60% value tested
 # 70% feedback received, 80% value improved, 90% finally polished, 100% recommended
+# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template_type: Ebook
-template_version: "1.7"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template_version: "1.9"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}

@@ -1,18 +1,14 @@
 ---
-tags: type/outline target/instagram 
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+tags: type/post target/instagram 
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline Instagram"
-template-version: "1.4"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.6"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}} - Instagram

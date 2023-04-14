@@ -1,26 +1,28 @@
 ---
 tags: type/quote
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
+quote: 
 author:
 year:
+visual:
+# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Quote
-template-version: "1.4"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.6"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
 
-<!-- QUOTE and Author goes here -->
+<!-- Quote and author from frontmatter goes here. Also used for Dataview list of quotes. -->
+
 > [!QUOTE]
-> .
+>  `= this.quote`
+>  — `= this.author`
+
 
 ---
 ## Annotations

@@ -1,25 +1,28 @@
 ---
 tags: type/sketchnote
-# type/ theme/ index/ source/ target/ 
-# chart/ kanban/ role/ structure/ tool/ visual/ 
-# -> https://forum.obsidian.md/t/how-to-use-tags/
+# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
+lead: Lead paragraph goes here
+visual: "![[image.jpg]]"
+# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
-# -> https://github.com/beaussan/update-time-on-edit-obsidian
+# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Sketchnote
-template-version: "1.3"
-cc: "CC BY-SA 4.0"
-# -> https://creativecommons.org/licenses/by-sa/4.0/legalcode
-source: https://github.com/groepl/Obsidian-Templates
+template-version: "1.5"
+# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
 
 <!-- My sketchnote  -->
 
+`= this.visual`
+
 <!-- Main ideas of my sketchnote  -->
-- 
+
+> [!Note]
+> `= this.lead`
 
 ---
 ## Questions
