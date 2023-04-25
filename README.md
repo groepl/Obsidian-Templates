@@ -57,16 +57,18 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Bullet Journal - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Future%20Log.md)
 - [Bullet Journal - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Monthly%20Log.md)
 - [Bullet Journal - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Weekly%20Log.md)
-- [Dataview Table Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
-- [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
-- [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Meeting%20Notes%20Template.md)
-- [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 
 ### Project Notes
 - [Outline E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
 - [Outline Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20Instagram%20Template.md) 
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
+
+### Special
+- [Dataview Table Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
+- [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
+- [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
+- [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 
 ## How to Use Links with Templates
 ![](https://github.com/groepl/Obsidian-Templates/blob/main/Visuals/Linking%20with%20Templates.png)
