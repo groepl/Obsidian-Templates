@@ -38,20 +38,20 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 ## List of Templates
 You first may have a look at my example notes created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
-### Literature and Permanent Notes
+### 2_Literature and 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Question%20Template.md)
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
-### Bibliographical Notes
+### 4_Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
 - [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
 - [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
 
-### Structure Notes
+### 5_Structure Notes
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
 - [Bullet Journal - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Daily%20Log.md)
 - [Bullet Journal - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Future%20Log.md)
@@ -59,7 +59,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Bullet Journal - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Weekly%20Log.md)
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Meeting%20Notes%20Template.md)
 
-### Project Notes
+### 6_Project Notes
 - [Outline E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
 - [Outline Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20Instagram%20Template.md) 
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
