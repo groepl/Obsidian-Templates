@@ -70,6 +70,9 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Meeting%20Notes%20Template.md)
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 
+## How to Use Links with Templates
+- ...
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Metadata with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Metadata)
