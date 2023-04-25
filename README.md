@@ -42,7 +42,6 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Question%20Template.md)
-- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ### Bibliographical Notes
@@ -50,6 +49,7 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
 - [Expert Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Expert%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
+- [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
 
 ### Structure Notes
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
