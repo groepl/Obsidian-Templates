@@ -38,7 +38,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 ## List of Templates
 You first may have a look at my example notes created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
-### 2_Literature & 3_Permanent Notes
+### 2_Literature + 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Question%20Template.md)
