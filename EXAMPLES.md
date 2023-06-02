@@ -6,7 +6,7 @@ Here is the overall structure of my Zettelkasten:
 
 <img src="/Visuals/folders.jpg" width="250" />
 
-All templates are stored in the Templates folder.
+All templates are stored in the **Templates** folder.
 
 ## Templates for Literature and Permanent Notes
 ### Note Template Example
