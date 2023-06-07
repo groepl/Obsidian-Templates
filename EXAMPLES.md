@@ -8,8 +8,8 @@ Here is the overall structure of my Zettelkasten:
 
 All templates are stored in the **Templates** folder.
 
-# Templates for Literature and Permanent Notes
-## Sketchnote Example
+## Templates for Literature and Permanent Notes
+### Sketchnote Example
 <img src="/Visuals/sketchnote_template.jpg" width="250" />
 
 ## Templates for Bibliographical Notes
