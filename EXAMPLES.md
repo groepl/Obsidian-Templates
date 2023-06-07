@@ -24,3 +24,4 @@ All templates are stored in the **Templates** folder.
 
 ## Templates for Structure Notes
 ### Structure Example
+<img src="/Visuals/structure_template.jpg" width="200" />
