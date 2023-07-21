@@ -1,48 +1,53 @@
 ---
-tags: type/tool type/term 
+tags: type/question
 # --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
-aliases: 
+aliases:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 # --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: Tool
+template-type: Question
 template-version: "1.7"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
 
-<!-- Short description of TOOL goes here -->
+<!-- Detailed question from short title in front matter -->
+
+> [!Question]
+> `= this.lead`
+
+<!-- Answer the detailed question  -->
 
 
-
-## Usage
-<!-- Why I am using this tool? The use case -->
-
-It is a preferred tool to …
-
-Here are my pros and cons from this use case:
-
-
-## Pros
--  
-
-
-## Cons
-- 
 
 ---
 ## Source
-<!-- Always keep a link to the source- --> 
+<!-- Always keep a link to the source. --> 
 - 
 
 ## Tasks
 <!-- What remains to be done with this note? --> 
 - 
 
-## References
-<!-- Links to pages not referenced in the content -->
+## Terms
+<!-- Links to definition pages -->
 - 
+
+## References
+<!-- Links to pages where the answer is used for -->
+- 
+
+
+
+
+
+
+
+
+
+
+

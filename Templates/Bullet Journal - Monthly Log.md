@@ -6,14 +6,14 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: BuJo Monthly
-template-version: "1.5"
+template-version: "1.6"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 # {{Title}}
 
 <!-- Main STRUCTURE of my content -->
 
-[Monthly Log 2019](Monthly%20Log%202019.md) | [[Monthly Log 2020]] | [[Monthly Log 2021]] | [Monthly Log 2022](Monthly%20Log%202022.md)
+[Monthly Log 2019](Monthly%20Log%202019.md) | [[Monthly Log 2020]] | [[Monthly Log 2021]] | [Monthly Log 2022](Monthly%20Log%202022.md) | [Monthly Log 2023](Monthly%20Log%202023.md)
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**

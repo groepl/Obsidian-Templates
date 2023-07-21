@@ -1,8 +1,9 @@
 ---
 tags: type/book
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+# --- More about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
 lead: 
+visual: "![[image.jpg]]"
 # --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 title: "{{title}}"
 subtitle: {{subtitle}}
@@ -30,7 +31,7 @@ created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Book
-template-version: "1.5"
+template-version: "1.7"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
@@ -59,6 +60,15 @@ by [[{{author}}]]
 - 
 
 ---
+
+## Source
+<!-- Always keep a link to the source- --> 
+-  
+
+## Tasks
+<!-- What remains to be done with this note? --> 
+- 
+
 ## Questions
 <!-- What remains for you to consider? -->
 - 

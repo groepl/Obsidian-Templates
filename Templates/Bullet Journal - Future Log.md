@@ -1,12 +1,12 @@
 ---
 tags: type/structure structure/list structure/bujo
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+# --- More about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: BuJo Future
-template-version: "1.4"
+template-version: "1.5"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 # Future Log {{Title}}

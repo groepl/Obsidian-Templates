@@ -2,11 +2,13 @@
 tags: type/meeting
 # --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
+meeting-date:
+#
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Meeting
-template-version: "1.8"
+template-version: "1.9"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 

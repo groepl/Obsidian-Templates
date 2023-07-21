@@ -2,15 +2,15 @@
 tags: type/term
 # --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
-lead: Term definition goes here
-source: source undefined
-visual:
+lead: +++ Term definition goes here +++
+source: +++ source undefined +++
+visual: "![[image.jpg]]"
 # --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Term
-template-version: "1.8"
+template-version: "1.9"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
@@ -26,6 +26,14 @@ template-version: "1.8"
 
 
 ---
+## Source
+<!-- Always keep a link to the source- --> 
+- 
+
+## Tasks
+<!-- What remains to be done with this note? --> 
+- 
+
 ## References
 <!-- Links to pages not referenced in the content -->
 - 
