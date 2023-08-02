@@ -9,8 +9,6 @@
 # Obsidian-Templates for Zettelkasten
 A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
 
-<img src="/Visuals/IMG_0934.png" width="500" />
-
 ## Obsidian
 Obsidian is a note-taking and knowledge management app from Shida Li and Erica Xu. It works on top of a local folder of plain text Markdown files and lets you turn a collection of plain text files into a rich network of linked thought.
 
@@ -36,6 +34,9 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
 - [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
 - [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
+
+## Basic Template Structure
+<img src="/Visuals/IMG_0934.png" width="500" />
 
 ## List of Templates
 You first may have a look at my example notes created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
