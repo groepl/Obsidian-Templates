@@ -6,7 +6,7 @@
 ![](https://badgen.net/twitter/follow/groepl?icon=twitter) 
 ![](https://badgen.net/github/license/groepl/Obsidian-Templates?icon=github)
 
-<img src="/Visuals/IMG_0934.png" width="700" />
+<img src="/Visuals/IMG_0934.png" width="500" />
 
 # Obsidian-Templates for Zettelkasten
 A repository containing templates and scripts for #Obsidian to support the #Zettelkasten method for note-taking.
