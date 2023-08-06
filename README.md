@@ -80,6 +80,7 @@ More about: https://forum.obsidian.md/t/how-to-use-links/58831
 
 ## How to Use Tags
 <img src="/Visuals/Tagging_with_Templates.png" width="700" />
+More about: https://forum.obsidian.md/t/how-to-use-tags/35320
 
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
