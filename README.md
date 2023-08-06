@@ -77,6 +77,9 @@ You first may have a look at my example notes created from these templates: [EXA
 ## How to Use Links
 <img src="/Visuals/Linking_with_Templates.png" width="700" />
 
+## How to Use Tags
+<img src="/Visuals/Linking_with_Templates.png" width="700" />
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Metadata with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Metadata)
