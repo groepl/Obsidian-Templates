@@ -66,11 +66,11 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Outline Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20Instagram%20Template.md) 
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
 
-### Special
+### Special Notes
 - [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md)
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
-### Snippets
+### Template Snippets
 - [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
 - [Frontmatter Book Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Front%20Matter%20Book%20Template.md)
 - [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Front%20Matter%20Template.md)
