@@ -72,8 +72,8 @@ You first may have a look at my example notes created from these templates: [EXA
 
 ### Snippets
 - [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
-- [Frontmatter Book Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
-- [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
+- [Frontmatter Book Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Front%20Matter%20Book%20Template.md)
+- [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Front%20Matter%20Template.md)
 - [Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20Template.md)
 
 ## How to Use Links
