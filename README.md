@@ -67,12 +67,14 @@ You first may have a look at my example notes created from these templates: [EXA
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
 
 ### Special
-- [Dataview Table Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
-- [Frontmatter Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
-- [Frontmatter Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
 - [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md)
 - [Table template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Table%20template.md)
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
+
+### Snippets
+- [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Template.md)
+- [Frontmatter Book Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Book%20Template.md)
+- [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Frontmatter%20Template.md)
 
 ## How to Use Links
 <img src="/Visuals/Linking_with_Templates.png" width="700" />
