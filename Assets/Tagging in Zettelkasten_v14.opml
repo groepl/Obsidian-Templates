@@ -1,0 +1,119 @@
+﻿<?xml version="1.0"?>
+<opml version="1.0">
+	<head>
+		<title>
+ToDo
+		</title>
+	</head>
+	<body>
+		<outline text="How to Tag Notes in Zettelkasten">
+			<outline text="Tags for Subjects">
+				<outline text="#theme/"/>
+				<outline text="#index/"/>
+			</outline>
+			<outline text="Tags for Types">
+				<outline text="#type/">
+					<outline text="book"/>
+					<outline text="chart"/>
+					<outline text="concept"/>
+					<outline text="example"/>
+					<outline text="exercise"/>
+					<outline text="insight"/>
+					<outline text="kanban"/>
+					<outline text="method"/>
+					<outline text="note"/>
+					<outline text="okr"/>
+					<outline text="person"/>
+					<outline text="question"/>
+					<outline text="quote"/>
+					<outline text="recipe"/>
+					<outline text="search"/>
+					<outline text="sketchnote"/>
+					<outline text="structure"/>
+					<outline text="term"/>
+					<outline text="tool"/>
+					<outline text="video"/>
+					<outline text="visual"/>
+					<outline text="..."/>
+				</outline>
+			</outline>
+			<outline text="Tags for Types with Attributes">
+				<outline text="#chart/">
+					<outline text="bar-chart"/>
+					<outline text="bubble-chart"/>
+					<outline text="cord-chart"/>
+					<outline text="..."/>
+				</outline>
+				<outline text="#kanban/">
+					<outline text="1_backlog"/>
+					<outline text="2_todo"/>
+					<outline text="3_doing"/>
+					<outline text="4_review"/>
+					<outline text="5_done"/>
+				</outline>
+				<outline text="#okr/">
+					<outline text="annual"/>
+					<outline text="idea"/>
+					<outline text="keyaction"/>
+					<outline text="keyresult"/>
+					<outline text="objective"/>
+					<outline text="wish"/>
+				</outline>
+				<outline text="#role/">
+					<outline text="author"/>
+					<outline text="expert"/>
+					<outline text="friend"/>
+					<outline text="illustrator"/>
+					<outline text="sketchnoter"/>
+					<outline text="..."/>
+				</outline>
+				<outline text="#structure/">
+					<outline text="bujo"/>
+					<outline text="faq"/>
+					<outline text="framework"/>
+					<outline text="glossary"/>
+					<outline text="list"/>
+					<outline text="mindmap"/>
+					<outline text="moc"/>
+					<outline text="toc"/>
+					<outline text="versus"/>
+					<outline text="workflow"/>
+					<outline text="..."/>
+				</outline>
+				<outline text="#visual/">
+					<outline text="black"/>
+					<outline text="handlettering"/>
+					<outline text="yellow"/>
+					<outline text="..."/>
+				</outline>
+			</outline>
+			<outline text="Tags for Flow">
+				<outline text="#source/">
+					<outline text="article"/>
+					<outline text="book"/>
+					<outline text="internet"/>
+					<outline text="onenote"/>
+					<outline text="podcast"/>
+					<outline text="post"/>
+					<outline text="self"/>
+					<outline text="video"/>
+					<outline text="..."/>
+				</outline>
+				<outline text="#target/">
+					<outline text="ebook"/>
+					<outline text="newsletter"/>
+					<outline text="discussion"/>
+					<outline text="meeting"/>
+					<outline text="post"/>
+					<outline text="presentation"/>
+					<outline text="..."/>
+				</outline>
+			</outline>
+		</outline>
+		<outline text="Legend"/>
+		<outline text="used to measure productivity"/>
+		<outline text="mandatory tags"/>
+		<outline text="notes created with templates "/>
+		<outline text="Gröpl, Edmund. Make Useful Notes, 2023.  https://github.com/groepl/Take-Useful-Notes."/>
+	</body>
+</opml>
