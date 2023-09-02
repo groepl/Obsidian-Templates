@@ -78,11 +78,11 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ## How to Use Links
 <img src="/Visuals/Linking_with_Templates.png" width="700" />
-More about: https://forum.obsidian.md/t/how-to-use-links/58831 
+More about: https://forum.obsidian.md/t/how-to-use-links/
 
 ## How to Use Tags
 <a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Tagging_with_Templates.png" width="700" /></a><br>
-More about: https://forum.obsidian.md/t/how-to-use-tags/35320
+More about: https://forum.obsidian.md/t/how-to-use-tags/
 
 ## How to Search Notes
 <img src="/Visuals/IMG_0979.jpeg" width="700" />
