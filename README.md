@@ -84,6 +84,9 @@ More about: https://forum.obsidian.md/t/how-to-use-links/58831
 <a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Tagging_with_Templates.png" width="700" /></a><br>
 More about: https://forum.obsidian.md/t/how-to-use-tags/35320
 
+## How to Search Notes
+<a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/IMG_0979.JPEG" width="700" /></a><br>
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Properties with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Properties)
