@@ -36,7 +36,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ### Obsidian Plugin Options
-- [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Automatically fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
+- [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="700" />
