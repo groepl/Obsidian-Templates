@@ -25,7 +25,6 @@ Copy templates to your Obsidian template folder location to make them available 
 Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit).
 
 ### Obsidian Plugins Needed
-- [Better Word Count](https://github.com/lukeleppan/better-word-count) - When you select text, it will count the selected words instead of the whole document.
 - [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
 - [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 - [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages. 
@@ -35,6 +34,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 
 ### Obsidian Plugin Options
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
+- [Better Word Count](https://github.com/lukeleppan/better-word-count) - When you select text, it will count the selected words instead of the whole document.
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 - [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
 
