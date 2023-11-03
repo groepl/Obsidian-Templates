@@ -9,7 +9,7 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Note
-template-version: "1.1"
+template-version: "1.2"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
@@ -27,6 +27,7 @@ template-version: "1.1"
 
 
 ---
+# Back Matter
 ## Source
 <!-- Always keep a link to the source- --> 
 - 

@@ -2,16 +2,17 @@
 tags: type/post target/instagram 
 # --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
+visual: "![[image.jpg]]"
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline Instagram"
-template-version: "1.6"
+template-version: "1.8"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
-# {{Title}} - Instagram
+# Instagram - {{Title}}
 
 <!-- What remains to be done do get the final version? --> 
 - [ ] Prepare final version 
@@ -61,6 +62,7 @@ ZETTELKASTEN
 ```
 
 ---
+# Back Matter
 ## Questions
 <!-- What remains for you to consider in the draft version? --> 
 - 

@@ -1,17 +1,14 @@
 ---
-tags: type/note
-# --- More about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: type/note 
 aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Note
-template-version: "1.10"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+template-version: "1.18"
 ---
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 
@@ -23,6 +20,8 @@ template-version: "1.10"
 <!-- Other content of my note  -->
 
 ---
+# Back Matter
+
 ## Source
 <!-- Always keep a link to the source- --> 
 - 
@@ -42,3 +41,12 @@ template-version: "1.10"
 ## References
 <!-- Links to pages not referenced in the content. -->
 - 
+
+## Template Help
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)

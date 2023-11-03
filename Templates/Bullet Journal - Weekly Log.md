@@ -13,10 +13,10 @@ template-version: "1.3"
 # {{Title}}
 
 
-![[{{monday:gggg-MM-DD ddd}}]] 
-![[{{tuesday:gggg-MM-DD ddd}}]] 
-![[{{wednesday:gggg-MM-DD ddd}}]] 
-![[{{thursday:gggg-MM-DD ddd}}]] 
-![[{{friday:gggg-MM-DD ddd}}]] 
-![[{{saturday:gggg-MM-DD ddd}}]]
-![[{{sunday:gggg-MM-DD ddd}}]]
+![[{{monday:gggg-MM-DD}}]] 
+![[{{tuesday:gggg-MM-DD}}]] 
+![[{{wednesday:gggg-MM-DD}}]] 
+![[{{thursday:gggg-MM-DD}}]] 
+![[{{friday:gggg-MM-DD}}]] 
+![[{{saturday:gggg-MM-DD}}]]
+![[{{sunday:gggg-MM-DD}}]]

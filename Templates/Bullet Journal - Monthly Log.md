@@ -6,23 +6,35 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: BuJo Monthly
-template-version: "1.6"
+template-version: "1.8"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 # {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-
-[Monthly Log 2019](Monthly%20Log%202019.md) | [[Monthly Log 2020]] | [[Monthly Log 2021]] | [Monthly Log 2022](Monthly%20Log%202022.md) | [Monthly Log 2023](Monthly%20Log%202023.md)
+[Monthly Logs 2023](Monthly%20Logs%202023.md) | [[2023]]
 ___
 
-**Objectives & Key Results | 3-4 & 1-4**
+## OKRs
+> Objectives (3-4) & Key Results (1-4)
+<!-- DataView table, use example and modify -->
+```dataview
+TABLE WITHOUT ID
+	file.link as Objectives
+FROM #okr/objective 
+WHERE status = "active_2023"
+SORT file.name ASC
+```
 
+```dataview
+TABLE WITHOUT ID
+	file.link as "Key Results"
+FROM #okr/keyresult 
+WHERE status = "active_2023"
+SORT file.name ASC
+```
 
-___
-
-**Key Actions | 1+**
-
+Key Actions | 1+
 
 ___
 
@@ -66,6 +78,7 @@ ___
 
 
 ___
+# Back Matter
 ##### Questions
 <!-- What remains for you to consider? --> 
 - 

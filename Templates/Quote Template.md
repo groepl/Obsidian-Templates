@@ -1,6 +1,6 @@
 ---
 tags: type/quote
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+# --- More about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases: 
 quote: 
 author:
@@ -11,7 +11,7 @@ created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Quote
-template-version: "1.7"
+template-version: "1.8"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
@@ -25,6 +25,7 @@ template-version: "1.7"
 
 
 ---
+# Back Matter
 ## Source
 <!-- Always keep a link to the source- --> 
 - 

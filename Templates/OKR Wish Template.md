@@ -1,28 +1,32 @@
 ---
-tags: type/structure
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
-aliases: 
+tags: okr/wish
+# --- More about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 # --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: Structure
-template-version: "1.8"
+template-type: Note
+template-version: "1.1"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
 # {{Title}}
 
-<!-- Main STRUCTURE of my content -->
-- 
+<!--  Main idea of my thoughts -->
+
+> [!Note]
+> `= this.lead`
+
+<!-- Other content of my note  -->
 
 
 ---
 # Back Matter
 ## Source
-<!-- Always keep a link to the source. --> 
+<!-- Always keep a link to the source- --> 
 - 
 
 ## Tasks
@@ -34,9 +38,9 @@ template-version: "1.8"
 - 
 
 ## Terms
-<!-- Links to definition pages -->
+<!-- Links to definition pages. -->
 - 
 
 ## References
-<!-- Links to pages not referenced in the content -->
+<!-- Links to pages not referenced in the content. -->
 - 

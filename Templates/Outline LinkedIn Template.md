@@ -1,22 +1,16 @@
 ---
-tags: type/post target/linkedin 
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: type/post target/linkedin target/post 
 aliases:
+visual: "![[image.jpg]]"
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 published:
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline LinkedIn"
-template-version: "1.7"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+template-version: "1.11"
 ---
 
-# {{Title}} - Post
+# LinkedIn - {{Title}}
 
-<!-- What remains to be done do get the final version? --> 
-- [ ] Prepare final version 
-
-- - -
 <!-- Main content of this story -->
 ⚡️Title⚡️
 ...
@@ -25,7 +19,7 @@ template-version: "1.7"
 ...
 
 . . .  
-Thanks very much! I really appreciate you reading my work. If you enjoyed it and found it useful, you might also like the related book “TAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten”. [Here's your free copy](https://github.com/groepl/Take-Useful-Notes). 
+Thanks very much! I really appreciate you reading my work. If you enjoyed it and found it useful, you might also like the related book “MAKE USEFUL NOTES. A simple guide to a complex skill by using Sketchnotes, Obsidian and Zettelkasten”. Here's your free copy: https://github.com/groepl/Take-Useful-Notes. 
 . . .  
 
 **Tags**
@@ -54,13 +48,23 @@ SKETCHNOTES
 #digitalsketchnotes #doodle #doodles #doodleart #drawing #facilitation #handwriting #lettering #sketchnote #sketchnotes #sketchnoting #storytelling #visualization #visualnotes #visualstorytelling #visualthinking
 
 TOOLS
-#conceptsapp #powerbi #procreate 
+#ai #chatgpt #conceptsapp #powerbi #obsidian #obsidianmd #procreate 
 
 ZETTELKASTEN
-#knowledgemanagement #obsidian #obsidianmd #pkm #secondbrain #smartsketchnotes #zettelkasten 
+#knowledgemanagement #pkm #secondbrain #smartsketchnotes #zettelkasten 
 ```
 
 ---
+# Back Matter
+## Source
+%% Always keep a link to the source. %%
+- 
+
+## Tasks
+<!-- What remains to be done do get the final version? --> 
+- [ ] Prepare final version 
+
+
 ## Questions
 <!-- What remains for you to consider in the draft version? --> 
 - 
@@ -79,3 +83,17 @@ LIMIT 10
 ## References
 <!-- Links to pages not referenced in the content -->
 - 
+
+## Template Help
+How to Use Links:
+- https://forum.obsidian.md/t/how-to-use-links/
+
+How to Use Tags: 
+- https://forum.obsidian.md/t/how-to-use-tags/
+
+Install plugins: 
+- https://github.com/blacksmithgu/obsidian-dataview
+- https://github.com/beaussan/update-time-on-edit-obsidian
+
+Find latest updates: 
+- https://github.com/groepl/Obsidian-Templates

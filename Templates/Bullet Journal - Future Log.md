@@ -12,7 +12,7 @@ template-version: "1.5"
 # Future Log {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Future Log Archive](Future%20Log%20Archive.md) | [[2023]] | [Ideas 2022](Ideas%202022.md) | [Vision Board 2022](Vision%20Board%202022.md)
+[Future Log Archive](Future%20Log%20Archive.md) | [[2023]] | [Ideas 2023](Ideas%202023.md) | [Vision Board 2022](Vision%20Board%202022.md)
 ___
 
 **Objectives & Key Results | 3-4 & 1-4**
@@ -56,6 +56,7 @@ ___
 
 
 ___
+# Back Matter
 ##### Questions
 <!-- What remains for you to consider? --> 
 - 
