@@ -89,8 +89,7 @@ More about: https://forum.obsidian.md/t/how-to-use-tags/
 
 ## How to Search Notes
 <img src="/Visuals/IMG_0979.jpeg" width="700" />
-More about: https://forum.obsidian.md/t/how-do-you-search-in-zettelkasten/
-https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
+More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
 
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
