@@ -47,7 +47,7 @@ You first may have a look at my note examples created from these templates: [EXA
 ### 2_Literature + 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Sketchnote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Sketchnote%20Template.md)
-- [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Question%20Template.md)
+- [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Question%20Template.md)
 
 ### 4_Bibliographical Notes
 - [Author Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Author%20Template.md)
