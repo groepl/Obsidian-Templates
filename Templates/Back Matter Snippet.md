@@ -1,40 +1,34 @@
----
-created: 2023-10-15, 19:31
-modified: 2023-10-15, 19:31
----
 
 ---
 # Back Matter
-## Source
+**Source**
 <!-- Always keep a link to the source- --> 
 - 
 
-## Tasks
+**Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
-## Questions
+**Questions**
 <!-- What remains for you to consider? --> 
 - 
 
-## Terms
+**Terms**
 <!-- Links to definition pages. -->
 - 
 
-## References
+**References**
 <!-- Links to pages not referenced in the content. -->
 - 
 
-## Template Help
-How to Use Links:
-- https://forum.obsidian.md/t/how-to-use-links/
+**Target**
+- 
 
-How to Use Tags: 
-- https://forum.obsidian.md/t/how-to-use-tags/
-
-Install plugins: 
-- https://github.com/blacksmithgu/obsidian-dataview
-- https://github.com/beaussan/update-time-on-edit-obsidian
-
-Find latest updates: 
-- https://github.com/groepl/Obsidian-Templates
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
