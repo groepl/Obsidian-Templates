@@ -3,10 +3,10 @@ tags: type/sketchnote
 aliases: 
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: Sketchnote
-template-version: "1.13"
+template-version: "1.14"
 ---
 <!--  See "Template Help" below for using properties -->
 

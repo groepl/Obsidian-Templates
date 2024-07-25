@@ -4,11 +4,11 @@ tags: type/meeting
 aliases:
 meeting-date:
 #
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Meeting
-template-version: "1.10"
+template-version: "1.11"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 

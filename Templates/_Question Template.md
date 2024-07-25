@@ -3,10 +3,10 @@ tags: type/question
 aliases:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: Question
-template-version: "1.14"
+template-version: "1.15"
 ---
 <!--  See "Template Help" below for using properties -->
 

@@ -3,10 +3,10 @@ tags: type/note
 aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: Note
-template-version: "1.18"
+template-version: "1.19"
 ---
 <!--  See "Template Help" below for using properties -->
 

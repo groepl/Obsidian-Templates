@@ -3,8 +3,8 @@ tags: type/note
 aliases: 
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: Frontmatter
-template-version: "1.7"
+template-version: "1.8"
 ---

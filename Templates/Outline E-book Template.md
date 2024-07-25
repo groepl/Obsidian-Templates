@@ -9,11 +9,11 @@ status: draft
 word_count: 0
 feedback: 0
 bar: <progress max=100 value=0></progress><br>0% first ideas
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 published:
 template_type: Ebook
-template_version: "1.12"
+template_version: "1.13"
 ---
 <!--  
 status: draft, final, published, revised 

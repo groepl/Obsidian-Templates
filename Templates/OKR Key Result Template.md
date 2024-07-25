@@ -5,11 +5,11 @@ aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 # --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Note
-template-version: "1.0"
+template-version: "1.1"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 

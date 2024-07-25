@@ -26,11 +26,11 @@ date:
 read: 
 status: undefined
 # status: backlog, to read, reading, completed, stopped
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: Frontmatter Book
-template-version: "1.5"
+template-version: "1.6"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 

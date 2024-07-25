@@ -2,10 +2,10 @@
 tags: type/structure structure/bujo
 aliases: 
 tasks: 1
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: BuJo Daily
-template-version: "1.5"
+template-version: "1.6"
 ---
 
 ## Tasks

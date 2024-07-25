@@ -9,7 +9,7 @@ visual: "![[image.jpg]]"
 created: {{date}}, {{time}}
 modified: {{date}}, {{time}}
 template-type: Author
-template-version: "1.11"
+template-version: "1.12"
 ---
 
 # {{Title}}

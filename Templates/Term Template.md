@@ -4,10 +4,10 @@ aliases:
 lead: +++ Term definition goes here +++
 source: +++ source undefined +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template-type: Term
-template-version: "1.11"
+template-version: "1.12"
 ---
 
 # {{Title}}

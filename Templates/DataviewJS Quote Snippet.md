@@ -1,6 +1,6 @@
 ---
-created: 2023-08-15, 17:42
-modified: 2023-08-15, 17:55
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 ---
 <!-- DataviewJS for random quotes. Use as example and modify -->
 > [!QUOTE]

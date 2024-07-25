@@ -3,12 +3,12 @@ tags: type/post target/instagram
 # --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
 aliases:
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 published:
 # --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
 template-type: "Outline Instagram"
-template-version: "1.8"
+template-version: "1.9"
 # --- Find latest updates: https://github.com/groepl/Obsidian-Templates
 ---
 
