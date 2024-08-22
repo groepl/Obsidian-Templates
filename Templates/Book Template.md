@@ -26,8 +26,8 @@ rating:
 date:
 read: 
 status: undefined
-created: "{{ DATE:YYYY-MM-DD, HH:mm }}"
-modified: "{{ DATE:YYYY-MM-DD, HH:mm }}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Book
 template_version: "1.16"
 ---
