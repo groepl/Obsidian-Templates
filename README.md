@@ -86,7 +86,7 @@ More about: https://forum.obsidian.md/t/how-to-use-links/
 
 ## How to Use Tags
 <a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Tagging_with_Templates.png" width="700" /></a><br>
-More about: https://forum.obsidian.md/t/how-to-use-tags/
+More about: https://forum.obsidian.md/t/how-to-use-tags/ 
 
 ## How to Search Notes
 <img src="/Visuals/IMG_0979.jpeg" width="700" />
