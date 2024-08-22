@@ -1,23 +1,23 @@
 ---
-tags: type/prompt source/chatgpt 
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: 
+- type/prompt 
+- theme/xyz
+- source/chatgpt 
 aliases:
-lead: +++ Prompt usage goes here +++
+lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-# --- Install plugin: https://github.com/blacksmithgu/obsidian-dataview
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: Question
-template-version: "1.2"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+created: "{{date}}, {{time}}"
+modified: "{{date}}, {{time}}"
+template_type: Prompt
+template_version: "1.14"
 ---
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 
 <!-- Detailed question from short title in front matter -->
 
-> [!Usage]
+> [!Note]
 > `= this.lead`
 
 > [!Prompt]
@@ -30,18 +30,36 @@ template-version: "1.2"
 
 ---
 # Back Matter
-## Source
-<!-- Always keep a link to the source. --> 
+
+**Source**
+<!-- Always keep a link to the source- --> 
+- based_on::
+
+**References**
+<!-- Links to pages not referenced in the content. -->
 - 
 
-## Tasks
+**Terms**
+<!-- Links to definition pages. -->
+- 
+
+**Target**
+<!-- Link to project note or externaly published content. -->
+- 
+
+**Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
-## Terms
-<!-- Links to definition pages -->
+**Questions**
+<!-- What remains for you to consider? --> 
 - 
 
-## References
-<!-- Links to pages where the answer is used for -->
-- 
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)

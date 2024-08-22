@@ -1,18 +1,28 @@
 ---
-tags: type/term
+tags: 
+- type/term
+- theme/xyz
 aliases: 
 lead: +++ Term definition goes here +++
 source: +++ source undefined +++
 visual: "![[image.jpg]]"
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-template-type: Term
-template-version: "1.11"
+created: "{{date}}, {{time}}"
+modified: "{{date}}, {{time}}"
+template_type: Term
+template_version: "1.19"
 ---
 
 # {{Title}}
+<!--  Clear and descriptive title -->
 
-<!-- Term definition and source from frontmatter goes here. Also used for Dataview glossary. -->
+<!-- A supporting visual from front matter if available -->
+
+```dataviewjs 
+dv.paragraph(dv.current().visual);
+```
+
+
+<!-- Term definition and source from front matter goes here. Also used for Dataview glossary. -->
 
 > [!Definition]
 > `= this.lead`
@@ -21,21 +31,35 @@ template-version: "1.11"
 <!-- Additional term description if needed -->
 
 
+
 ---
 # Back Matter
-## Source
+
+**Source**
 <!-- Always keep a link to the source- --> 
+- based_on::
+
+**References**
+<!-- Links to pages not referenced in the content. -->
 - 
 
-## Tasks
+**Terms**
+<!-- Links to definition pages. -->
+- 
+
+**Target**
+<!-- Link to project note or externaly published content. -->
+- 
+
+**Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
-## References
-<!-- Links to pages not referenced in the content -->
+**Questions**
+<!-- What remains for you to consider? --> 
 - 
 
-## Template Help
+**Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
 - [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
@@ -43,4 +67,3 @@ template-version: "1.11"
 - [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
 - [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
 - [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)
-

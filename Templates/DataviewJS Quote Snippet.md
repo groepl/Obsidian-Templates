@@ -1,7 +1,4 @@
----
-created: 2023-08-15, 17:42
-modified: 2023-08-15, 17:55
----
+
 <!-- DataviewJS for random quotes. Use as example and modify -->
 > [!QUOTE]
 > ```dataviewjs 

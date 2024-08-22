@@ -1,18 +1,19 @@
 ---
-tags: type/structure, structure/bujo
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: 
+- type/structure
+- structure/bujo
 aliases: 
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: BuJo Monthly
-template-version: "1.8"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+created: "{{date}}, {{time}}"
+modified: "{{date}}, {{time}}"
+template_type: BuJo Monthly
+template_version: "1.14"
 ---
+<!--  See "Template Help" below for using properties -->
+
 # {{Title}}
 
 <!-- Main STRUCTURE of my content -->
-[Monthly Logs 2023](Monthly%20Logs%202023.md) | [[2023]]
+[Monthly Logs 2024](Monthly%20Logs%202024.md) | [[2024]]
 ___
 
 ## OKRs
@@ -22,7 +23,7 @@ ___
 TABLE WITHOUT ID
 	file.link as Objectives
 FROM #okr/objective 
-WHERE status = "active_2023"
+WHERE status = "active_2024"
 SORT file.name ASC
 ```
 
@@ -30,7 +31,7 @@ SORT file.name ASC
 TABLE WITHOUT ID
 	file.link as "Key Results"
 FROM #okr/keyresult 
-WHERE status = "active_2023"
+WHERE status = "active_2024"
 SORT file.name ASC
 ```
 
@@ -76,17 +77,33 @@ ___
 . 30
 . 31
 
-
-___
+***
 # Back Matter
-##### Questions
+**Source**
+<!-- Always keep a link to the source- --> 
+- 
+
+**Tasks**
+<!-- What remains to be done with this note? --> 
+- 
+
+**Questions**
 <!-- What remains for you to consider? --> 
 - 
 
+**Terms**
+<!-- Links to definition pages. -->
+- 
 
-##### Terms
-<!-- Links to definition pages -->
+**References**
+<!-- Links to pages not referenced in the content. -->
+- 
 
-
-##### References
-<!-- Links to pages not referenced in the content -->
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)

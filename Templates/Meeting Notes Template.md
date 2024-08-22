@@ -1,16 +1,15 @@
 ---
-tags: type/meeting
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: 
+- type/meeting
+- theme/xyz
 aliases:
-meeting-date:
-#
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: Meeting
-template-version: "1.10"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+date:
+created: "{{date}}, {{time}}"
+modified: "{{date}}, {{time}}"
+template_type: Meeting
+template_version: "1.19"
 ---
+<!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 
@@ -52,14 +51,35 @@ template-version: "1.10"
 
 ---
 # Back Matter
-## Questions
+**Source**
+<!-- Always keep a link to the source- --> 
+- 
+
+**References**
+<!-- Links to pages not referenced in the content. -->
+- 
+
+**Terms**
+<!-- Links to definition pages. -->
+- 
+
+**Target**
+<!-- Link to project note or externaly published content. -->
+- 
+
+**Tasks**
+<!-- What remains to be done with this note? --> 
+- 
+
+**Questions**
 <!-- What remains for you to consider? --> 
 - 
 
-## Terms
-<!-- Links to definition pages -->
-- 
-
-## References
-<!-- Links to pages not referenced in the content -->
-- 
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)

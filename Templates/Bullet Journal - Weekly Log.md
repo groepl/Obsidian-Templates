@@ -1,22 +1,70 @@
 ---
-tags: type/structure structure/bujo
-# --- Learn more about "How to use tags": https://forum.obsidian.md/t/how-to-use-tags/
+tags: 
+- type/structure
+- structure/bujo
 aliases: 
-created: {{date}}, {{time}}
-modified: {{date}}, {{time}}
-# --- Install plugin: https://github.com/beaussan/update-time-on-edit-obsidian
-template-type: BuJo Weekly
-template-version: "1.3"
-# --- Find latest updates: https://github.com/groepl/Obsidian-Templates
+template_type: BuJo Weekly
+template_version: "1.13"
+created: "{{date}}, {{time}}"
+modified: "{{date}}, {{time}}"
 ---
+<!--  See "Template Help" below for using properties -->
+<!--  Obsidian Calendar plugin needed -->
 
 # {{Title}}
 
+**Mon**
+- 
 
-![[{{monday:gggg-MM-DD}}]] 
-![[{{tuesday:gggg-MM-DD}}]] 
-![[{{wednesday:gggg-MM-DD}}]] 
-![[{{thursday:gggg-MM-DD}}]] 
-![[{{friday:gggg-MM-DD}}]] 
-![[{{saturday:gggg-MM-DD}}]]
-![[{{sunday:gggg-MM-DD}}]]
+**Tue**
+-  
+
+**Wed**
+- 
+
+**Thu**
+- 
+
+**Fri**
+- 
+
+**Sat**
+- 
+
+**Son**
+- 
+
+---
+# Back Matter
+**Source**
+<!-- Always keep a link to the source- --> 
+- based_on::
+
+**References**
+<!-- Links to pages not referenced in the content. -->
+- 
+
+**Terms**
+<!-- Links to definition pages. -->
+- 
+
+**Target**
+<!-- Link to project note or externaly published content. -->
+- 
+
+**Tasks**
+<!-- What remains to be done with this note? --> 
+- 
+
+**Questions**
+<!-- What remains for you to consider? --> 
+- 
+
+**Template Help**
+<!-- Links to external help pages on GitHub. -->
+- [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
+- [How to Use Links](https://github.com/groepl/Obsidian-Templates#how-to-use-links)
+- [How to Use Tags](https://github.com/groepl/Obsidian-Templates#how-to-use-tags)
+- [How to Search Notes](https://github.com/groepl/Obsidian-Templates#how-to-search-notes)
+- [Plugins Needed](https://github.com/groepl/Obsidian-Templates#obsidian-plugins-needed)
+- [Find Latest Updates](https://github.com/groepl/Obsidian-Templates)

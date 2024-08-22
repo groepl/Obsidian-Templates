@@ -1,42 +1,37 @@
 ---
 tags: 
-- type/tool
-- theme/xyz
-aliases: 
-lead: +++ Term definition goes here +++
+- theme/xyz 
+- type/okr
+okr: keyaction 
+aliases:
+lead: +++ Lead paragraph goes here +++
+status: active_2024
 visual: "![[image.jpg]]"
 created: "{{date}}, {{time}}"
 modified: "{{date}}, {{time}}"
-template_type: Tool
-template_version: "1.17"
+template_type: OKR Action
+template_version: "1.11"
 ---
+<!-- 
+okr: idea, wish, keyaction, keyresult, objective
+See "Template Help" below for using properties 
+-->
 
 # {{Title}}
 
-<!-- Short description of TOOL goes here -->
+<!--  Main idea of my thoughts -->
 
 > [!Note]
 > `= this.lead`
 
+<!-- Other content of my note  -->
 
-## Usage
-<!-- Why I am using this tool? The use case -->
-- 
-
-
-## Pros
--  
-
-
-## Cons
-- 
 
 ---
 # Back Matter
-
 **Source**
 <!-- Always keep a link to the source- --> 
-- based_on:: 
+- 
 
 **References**
 <!-- Links to pages not referenced in the content. -->
