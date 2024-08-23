@@ -70,7 +70,7 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
 
 ### Special Notes
-- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md) - Template to store cooking recipes
+- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md)
 - [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ### Template Snippets
