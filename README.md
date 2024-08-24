@@ -49,13 +49,13 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Note%20Template.md)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/_Question%20Template.md)
 
-### 4_Bibliographical Notes
+### 4_References
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
 - [Person Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Person%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Quote%20Template.md)
 - [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Term%20Template.md) -> needs plugin: [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
 
-### 5_Structure Notes
+### 5_Structures
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
 - [Bullet Journal - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Daily%20Log.md)
 - [Bullet Journal - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Bullet%20Journal%20-%20Future%20Log.md)
