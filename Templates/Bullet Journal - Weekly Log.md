@@ -3,10 +3,10 @@ tags:
 - type/structure
 - structure/bujo
 aliases: 
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: BuJo Weekly
-template_version: "1.13"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+template_version: "1.15"
 ---
 <!--  See "Template Help" below for using properties -->
 <!--  Obsidian Calendar plugin needed -->

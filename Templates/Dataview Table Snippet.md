@@ -38,6 +38,7 @@ SORT file.name ASC
 
 WHERE read = 2023
 WHERE status = "open"
+WHERE kanban = "backlog"
 WHERE contains(file.name,"LernOS Zettelkasten")
 WHERE sketchnote != empty
 

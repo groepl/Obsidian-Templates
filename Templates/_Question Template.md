@@ -5,10 +5,10 @@ tags:
 aliases:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Question
-template_version: "1.21"
+template_version: "1.22"
 ---
 <!--  See "Template Help" below for using properties -->
 

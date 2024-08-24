@@ -5,13 +5,14 @@ tags:
 - target/instagram 
 aliases:
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+lead: +++ Lead paragraph goes here +++
 published:
 views: 0
 feedbacks: 0
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: "Outline Instagram"
-template_version: "1.15"
+template_version: "1.16"
 ---
 <!--  See "Template Help" below for using properties -->
 

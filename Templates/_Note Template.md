@@ -6,10 +6,10 @@ tags:
 aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Note
-template_version: "1.26"
+template_version: "1.27"
 ---
 <!--  See "Template Help" below for using properties -->
 

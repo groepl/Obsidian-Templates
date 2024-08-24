@@ -4,10 +4,10 @@ tags:
 - theme/xyz
 aliases:
 date:
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Meeting
-template_version: "1.19"
+template_version: "1.20"
 ---
 <!--  See "Template Help" below for using properties -->
 

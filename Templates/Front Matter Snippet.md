@@ -6,8 +6,8 @@ tags:
 aliases: 
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Frontmatter
 template_version: "1.12"
 ---

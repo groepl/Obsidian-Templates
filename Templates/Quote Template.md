@@ -7,10 +7,10 @@ quote:
 author:
 year:
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Quote
-template_version: "1.14"
+template_version: "1.15"
 ---
 
 # {{Title}}

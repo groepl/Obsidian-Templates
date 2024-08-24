@@ -6,14 +6,14 @@ tags:
 - target/post 
 aliases:
 visual: "![[image.jpg]]"
-lead: 
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+lead: +++ Lead paragraph goes here +++
 published:
 views: 0
 feedbacks: 0
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: "Outline LinkedIn"
-template_version: "1.22"
+template_version: "1.23"
 ---
 
 # Post - {{Title}}

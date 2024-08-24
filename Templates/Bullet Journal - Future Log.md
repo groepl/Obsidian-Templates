@@ -4,10 +4,10 @@ tags:
 - structure/list 
 - structure/bujo
 aliases: 
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: BuJo Future
-template_version: "1.9"
+template_version: "1.10"
 ---
 <!--  See "Template Help" below for using properties -->
 

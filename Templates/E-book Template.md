@@ -13,8 +13,8 @@ book_version: 0.19
 status: draft
 word_count: 0
 bar: <progress max=100 value=0></progress><br>0% first ideas
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 published:
 views: 0
 feedbacks: 0

@@ -9,10 +9,10 @@ death:
 bio_short: 
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
-created: "{{date}}, {{time}}"
-modified: "{{date}}, {{time}}"
+created: {{DATE:YYYY-MM-DD, HH:mm}}
+modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Person
-template_version: "1.17"
+template_version: "1.18"
 ---
 <!--  See "Template Help" below for using properties -->
 
