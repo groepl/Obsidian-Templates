@@ -29,7 +29,7 @@ status: undefined
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Book
-template_version: "1.16"
+template_version: "1.17"
 ---
 <!-- 
 rating: ⭐️⭐️⭐️    // 1 to 3 stars
@@ -45,9 +45,9 @@ status: undefined, backlog, to read, reading, completed, stopped
 
 by [[{{author}}]]
 
-## Summary
 <!-- No more than a couple paragraphs summarizing this BOOK -->
 
+> [!summary]
 {{description}}
 
 ## Table of Contents
