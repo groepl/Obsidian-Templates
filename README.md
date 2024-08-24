@@ -65,8 +65,8 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ### 6_Project Notes
 - [Outline E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
-- [Outline Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20Instagram%20Template.md) 
-- [Outline LinkedIn Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Outline%20LinkedIn%20Template.md)
+- [Post Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Post%20Instagram%20Template.md) 
+- [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Post%20Template.md)
 
 ### Special Notes
 - [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md)
