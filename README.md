@@ -92,7 +92,7 @@ More about: https://forum.obsidian.md/t/how-to-use-tags/
 More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
 
 ## Zettelkasten Ontology
-<img src="/Visuals/IMG_0979.jpeg" width="700" />
+<img src="/Visuals/Zettelkasten_Ontology.png" width="700" />
 More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
 
 ## FAQ
