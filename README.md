@@ -91,6 +91,10 @@ More about: https://forum.obsidian.md/t/how-to-use-tags/
 <img src="/Visuals/IMG_0979.jpeg" width="700" />
 More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
 
+## Zettelkasten Ontology
+<img src="/Visuals/IMG_0979.jpeg" width="700" />
+More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Properties with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Properties)
