@@ -93,7 +93,7 @@ More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-sea
 
 ## Zettelkasten Ontology
 <img src="/Visuals/Zettelkasten_Ontology.png" width="700" />
-More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
+More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
