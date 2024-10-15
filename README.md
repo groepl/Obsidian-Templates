@@ -87,6 +87,10 @@ More about: https://forum.obsidian.md/t/how-to-use-links/
 <a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Tagging_with_Templates.png" width="700" /></a><br>
 More about: https://forum.obsidian.md/t/how-to-use-tags/ 
 
+## How to Use Properties
+<a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Metadata_2024-10-12.png" width="700" /></a><br>
+More about: https://forum.obsidian.md/t/how-to-use-tags/ 
+
 ## How to Search Notes
 <img src="/Visuals/IMG_0979.jpeg" width="700" />
 More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-search-in-zettelkasten/65386
