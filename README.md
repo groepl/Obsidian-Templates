@@ -43,6 +43,8 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - PlantUML
 - [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
 - Tag Wrangler - Rename, merge, toggle, and search the tag pane.
+- View Count
+  
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="700" />
 
