@@ -36,7 +36,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - Callout Manager
-- Charts
+- Charts - Easily create interactive charts for your notes. 
 - File Explorer Note Count
 - Homepage
 - Paste image rename
