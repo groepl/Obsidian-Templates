@@ -26,7 +26,6 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 
 ### Mandatory Obsidian Plugins
 - [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
-- [Calendar](https://github.com/liamcain/obsidian-calendar-plugin) - Creates a simple Calendar view for visualizing and navigating between your daily notes.
 - [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 - [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages. 
 - [Periodic Notes](https://github.com/liamcain/obsidian-periodic-notes) - Expands on the idea of daily notes and introduces weekly and monthly notes.
