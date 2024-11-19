@@ -82,6 +82,8 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Back%20Matter%20Snippet.md)
 - [Book Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Book%20Front%20Matter%20Snippet.md)
 - [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Dataview%20Table%20Snippet.md)
+- [DataviewJS Quote Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_DataviewJS%20Quote%20Snippet.md)
+- [E-book Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_E-book%20Back%20Matter%20Snippet.md)
 - [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Front%20Matter%20Snippet.md)
 
 
