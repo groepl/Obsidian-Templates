@@ -67,7 +67,7 @@ You first may have a look at my note examples created from these templates: [EXA
 ### 5_Structures
 - [BuJo - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Future%20Log.md)
 - [BuJo - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Monthly%20Log.md)
-- [BuJo - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BulJo%20-%20Weekly%20Log.md)
+- [BuJo - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Weekly%20Log.md)
 - [BuJo - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Daily%20Log.md)
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Meeting%20Notes%20Template.md)
 - [OKR Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_OKR%20Template.md)
