@@ -53,7 +53,7 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ### 2_Literature + 3_Permanent Notes
 - [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Note%20Template.md)
-- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Promt%20Template.md)
+- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md)
 - [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Question%20Template.md)
 
 ### 4_References
@@ -61,6 +61,8 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Person Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Person%20Template.md)
 - [Quote Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Quote%20Template.md)
 - [Term Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Term%20Template.md) -> needs plugin: [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia)
+- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Recipe%20Template.md)
+- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Tool%20Template.md)
 
 ### 5_Structures
 - [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Structure%20Template.md)
@@ -74,10 +76,6 @@ You first may have a look at my note examples created from these templates: [EXA
 - [E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
 - [Post Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Post%20Instagram%20Template.md) 
 - [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Post%20Template.md)
-
-### Special Notes
-- [Recipe Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Recipe%20Template.md)
-- [Tool Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Tool%20Template.md)
 
 ### Template Snippets
 - [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Back%20Matter%20Snippet.md)
