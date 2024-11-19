@@ -79,10 +79,10 @@ You first may have a look at my note examples created from these templates: [EXA
 - [Post Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_Post%20Instagram%20Template.md) 
 
 ### Template Snippets
-- [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Back%20Matter%20Snippet.md)
-- [Book Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Book%20Front%20Matter%20Snippet.md)
-- [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Dataview%20Table%20Snippet.md)
-- [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/Front%20Matter%20Snippet.md)
+- [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Back%20Matter%20Snippet.md)
+- [Book Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Book%20Front%20Matter%20Snippet.md)
+- [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Dataview%20Table%20Snippet.md)
+- [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Front%20Matter%20Snippet.md)
 
 
 ## How to Use Links
