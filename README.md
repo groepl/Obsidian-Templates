@@ -35,7 +35,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 ### Optional Obsidian Plugin
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
-- Callout Manager
+- [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
 - Charts - Easily create interactive charts for your notes. 
 - [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
 - [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
