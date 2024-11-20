@@ -38,7 +38,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - Callout Manager
 - Charts - Easily create interactive charts for your notes. 
 - [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
-- Homepage
+- [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
 - Paste image rename
 - PlantUML
 - [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
