@@ -37,7 +37,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - Callout Manager
 - Charts - Easily create interactive charts for your notes. 
-- File Explorer Note Count
+- [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
 - Homepage
 - Paste image rename
 - PlantUML
