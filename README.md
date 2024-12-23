@@ -89,7 +89,7 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ## How to Use Links
 <img src="/Visuals/Linking_with_Templates.png" width="700" />
-More about: https://forum.obsidian.md/t/how-to-use-links/
+More about: https://forum.obsidian.md/t/link-notes-but-how/
 
 ## How to Use Tags
 <img src="/Visuals/use_tags_2024-12-23.png" width="700" /></a><br>
