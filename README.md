@@ -93,7 +93,6 @@ More about: https://forum.obsidian.md/t/how-to-use-links/
 
 ## How to Use Tags
 <img src="/Visuals/use_tags_2024-12-23.png" width="700" /></a>
-<a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Tagging_with_Templates.png" width="700" /></a><br>
 More about: https://forum.obsidian.md/t/how-to-use-tags/ 
 
 ## How to Use Properties
