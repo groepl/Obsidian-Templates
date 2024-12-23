@@ -46,7 +46,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [View Count](https://github.com/decaf-dev/obsidian-view-count) - Tracks the view count for each file in your vault.
   
 ## Basic Template Structure
-<img src="/Visuals/IMG_0934.png" width="700" />
+<img src="/Visuals/IMG_0934.png" width="500" />
 
 ## List of Templates
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
