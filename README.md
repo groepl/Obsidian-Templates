@@ -76,7 +76,6 @@ You first may have a look at my note examples created from these templates: [EXA
 ### 6_Project Notes
 - [E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
 - [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_Post%20Template.md)
-- [Post Instagram Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_Post%20Instagram%20Template.md) 
 
 ### Template Snippets
 - [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Back%20Matter%20Snippet.md)
