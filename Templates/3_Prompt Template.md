@@ -4,12 +4,13 @@ tags:
 - theme/xyz
 - source/chatgpt 
 aliases:
+question: +++ Question goes here +++
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Prompt
-template_version: "1.15"
+template_version: "1.17"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -36,8 +37,8 @@ template_version: "1.15"
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -45,16 +46,18 @@ template_version: "1.15"
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
 **Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

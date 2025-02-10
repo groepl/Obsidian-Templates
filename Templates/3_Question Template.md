@@ -3,12 +3,13 @@ tags:
 - type/question
 - theme/xyz
 aliases:
-lead: +++ Question goes here +++
+question: +++ Question goes here +++
+lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Question
-template_version: "1.23"
+template_version: "1.25"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -17,10 +18,11 @@ template_version: "1.23"
 <!-- Detailed question from "lead"-key  in properties section -->
 
 > [!Question]
-> `= this.lead`
+> `= this.question`
 
 <!-- Answer the detailed question  -->
-
+> [!Answer]
+> `= this.lead`
 
 
 ---
@@ -31,8 +33,7 @@ template_version: "1.23"
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. 
-- see:: [[related note]] and <why you made this connection> -->
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
 - see:: 
 
 **Terms**
@@ -41,7 +42,8 @@ template_version: "1.23"
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
+
 ---
 **Tasks**
 <!-- What remains to be done with this note? --> 

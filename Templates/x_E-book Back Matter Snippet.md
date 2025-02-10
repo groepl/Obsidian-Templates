@@ -24,8 +24,8 @@
 
 
 **References**
-<!-- Links to pages not referenced in the content -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Target**
 - target::

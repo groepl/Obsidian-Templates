@@ -9,8 +9,8 @@ visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Note
-template_version: "1.31"
-license: © 2022-2024 by Edmund Gröpl under CC BY-NC-SA 4.0
+template_version: "1.35"
+license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -18,10 +18,10 @@ license: © 2022-2024 by Edmund Gröpl under CC BY-NC-SA 4.0
 <!--  Clear and descriptive title -->
 
 <!-- My sketchnote if available -->
-
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
+<small>_Zoom: [[]] | Edit: [[]]_</small>
 
 <!--  Most essential idea from "lead"-key  in properties section -->
 
@@ -44,8 +44,7 @@ dv.paragraph(dv.current().visual);
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. 
-- see:: [[related note]] and <why you made this connection> -->
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
 - see:: 
 
 **Terms**
@@ -54,7 +53,8 @@ dv.paragraph(dv.current().visual);
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
+
 ---
 **Tasks**
 <!-- What remains to be done with this note? --> 
@@ -62,7 +62,7 @@ dv.paragraph(dv.current().visual);
 
 **Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
 ---
 **Template Help**

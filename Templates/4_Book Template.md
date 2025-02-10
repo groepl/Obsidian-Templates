@@ -21,7 +21,7 @@ isbn13: {{isbn13}}
 isbn10: {{isbn10}}
 link: {{link}}
 preview_link: {{preview_link}}
-bibliography: +++ Copy here from Zotero +++
+bibliography: +++ Copy and paste citation from Zotero +++
 rating: 
 date:
 read: 
@@ -29,7 +29,7 @@ status: undefined
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Book
-template_version: "1.18"
+template_version: "1.21"
 ---
 <!-- 
 rating: ⭐️⭐️⭐️    // 1 to 3 stars
@@ -71,11 +71,11 @@ by [[{{author}}]]
 
 **Source**
 <!-- Always keep a link to the source- --> 
-- 
+- based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -83,8 +83,9 @@ by [[{{author}}]]
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
@@ -93,6 +94,7 @@ by [[{{author}}]]
 <!-- What remains for you to consider? --> 
 - 
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

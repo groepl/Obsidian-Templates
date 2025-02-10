@@ -3,7 +3,9 @@ tags:
 - type/post 
 - theme/xyz
 - target/linkedin 
-- target/post 
+- target/forumobsidian
+- target/forumzettelkasten
+- target/reddit
 aliases:
 visual: "![[image.jpg]]"
 lead: +++ Lead paragraph goes here +++
@@ -13,7 +15,7 @@ feedbacks: 0
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: "Post"
-template_version: "1.25"
+template_version: "1.27"
 ---
 
 # Post - {{Title}}
@@ -35,7 +37,7 @@ Thanks very much! I really appreciate you reading my work. If you enjoyed it and
 ## Tags for LinkedIn
 
 ```
---- TAGS FOR PUBLISHING ---
+--- TAGS FOR PUBLISHING (MAX 30) ---
 #edmund2024 #agile #agilität #agilemindset #learning #lernos #lernossketchnoting #newwork #wol #workingoutloud #digitalsketchnotes #doodle #doodles #doodleart #drawing #facilitation #handwriting #lettering #sketchnote #sketchnotes #sketchnoting #storytelling #visualization #visualnotes #visualstorytelling #visualthinking #conceptsapp #powerbi #procreate #knowledgemanagement #obsidian #obsidianmd #pkm #secondbrain #smartsketchnotes #writing #zettelkasten 
 ```
 
@@ -68,7 +70,7 @@ ZETTELKASTEN
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. see:: <reference> for <reason> -->
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
 - see:: 
 
 **Terms**

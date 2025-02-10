@@ -1,14 +1,14 @@
 ---
-tags: 
-- type/tool
-- theme/xyz
+tags:
+  - type/tool
+  - theme/xyz
 aliases: 
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Tool
-template_version: "1.18"
+template_version: "1.20"
 ---
 
 # {{Title}}
@@ -31,16 +31,17 @@ template_version: "1.18"
 ## Cons
 - 
 
+
 ---
 # Back Matter
 
 **Source**
 <!-- Always keep a link to the source- --> 
-- based_on:: 
+- based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -48,16 +49,18 @@ template_version: "1.18"
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
 **Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

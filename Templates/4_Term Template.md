@@ -1,7 +1,7 @@
 ---
-tags: 
-- type/term
-- theme/xyz
+tags:
+  - type/term
+  - theme/xyz
 aliases: 
 lead: +++ Term definition goes here +++
 source: +++ source undefined +++
@@ -9,7 +9,7 @@ visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Term
-template_version: "1.20"
+template_version: "1.22"
 ---
 
 # {{Title}}
@@ -32,6 +32,7 @@ dv.paragraph(dv.current().visual);
 
 
 
+
 ---
 # Back Matter
 
@@ -40,8 +41,8 @@ dv.paragraph(dv.current().visual);
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -49,16 +50,18 @@ dv.paragraph(dv.current().visual);
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
 **Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

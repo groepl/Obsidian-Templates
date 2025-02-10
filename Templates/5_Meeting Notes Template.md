@@ -1,13 +1,15 @@
 ---
-tags: 
-- type/meeting
-- theme/xyz
-aliases:
+tags:
+  - type/meeting
+  - theme/xyz
+aliases: 
+lead: +++ Lead paragraph goes here +++
+visual: "![[image.jpg]]"
 meeting_date: 
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Meeting
-template_version: "1.21"
+template_version: "1.26"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -49,15 +51,17 @@ template_version: "1.21"
 - Documents to be included in the meeting notes:
 
 
+
 ---
 # Back Matter
+
 **Source**
 <!-- Always keep a link to the source- --> 
-- 
+- based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -65,16 +69,18 @@ template_version: "1.21"
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
 
 **Questions**
 <!-- What remains for you to consider? --> 
-- 
+- question::
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)

@@ -19,7 +19,7 @@ published:
 views: 0
 feedbacks: 0
 template_type: Ebook
-template_version: "1.24"
+template_version: "1.26"
 ---
 <!--  
 status: draft, final, published, revised 
@@ -77,7 +77,8 @@ dv.paragraph('> ' + dv.current().rule);
 
 
 **References**
-<!-- Links to pages not referenced in the content -->
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see::
 - 
 
 **Target**

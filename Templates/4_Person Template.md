@@ -12,7 +12,7 @@ visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Person
-template_version: "1.18"
+template_version: "1.20"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -41,13 +41,14 @@ template_version: "1.18"
 
 ---
 # Back Matter
+
 **Source**
 <!-- Always keep a link to the source- --> 
 - based_on::
 
 **References**
-<!-- Links to pages not referenced in the content. -->
-- 
+<!-- Links to pages not referenced in the content. see: [[related note]] because <reason> -->
+- see:: 
 
 **Terms**
 <!-- Links to definition pages. -->
@@ -55,8 +56,9 @@ template_version: "1.18"
 
 **Target**
 <!-- Link to project note or externaly published content. -->
-- 
+- used_in::
 
+---
 **Tasks**
 <!-- What remains to be done with this note? --> 
 - 
@@ -65,6 +67,7 @@ template_version: "1.18"
 <!-- What remains for you to consider? --> 
 - 
 
+---
 **Template Help**
 <!-- Links to external help pages on GitHub. -->
 - [Basic Template Structure](https://github.com/groepl/Obsidian-Templates#basic-template-structure)
