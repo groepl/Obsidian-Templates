@@ -95,7 +95,7 @@ More about: https://forum.obsidian.md/t/link-notes-but-how/
 More about: https://forum.obsidian.md/t/use-tags-but-how/
 
 ## How to Use Properties
-<a href="https://github.com/groepl/Obsidian-Templates/tree/main/Assets"><img src="/Visuals/Metadata_2024-10-12.png" width="700" /></a><br>
+<img src="/Visuals/Metadata_2024-10-12.png" width="700" /></a><br>
 More about: https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/49098/58
 
 ## How to Search Notes
