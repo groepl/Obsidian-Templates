@@ -52,9 +52,9 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 You first may have a look at my note examples created from these templates: [EXAMPLES](https://github.com/groepl/Obsidian-Templates/blob/main/EXAMPLES.md).
 
 ### 2_Literature + 3_Permanent Notes
-- [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Note%20Template.md)
-- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md)
-- [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Question%20Template.md)
+- [Note Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Note%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Prompt Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Prompt%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Question Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/3_Question%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 4_References
 - [Book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/4_Book%20Template.md) -> needs plugin: [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) 
