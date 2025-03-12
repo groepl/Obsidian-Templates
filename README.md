@@ -66,23 +66,23 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ### 5_Structures
 - [BuJo - Future Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Future%20Log.md)
-- [BuJo - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Monthly%20Log.md)
+- [BuJo - Monthly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Monthly%20Log.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 - [BuJo - Weekly Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Weekly%20Log.md)
 - [BuJo - Daily Log](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_BuJo%20-%20Daily%20Log.md)
 - [Meeting Notes Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Meeting%20Notes%20Template.md)
-- [OKR Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_OKR%20Template.md)
-- [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Structure%20Template.md)
+- [OKR Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_OKR%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Structure Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/5_Structure%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### 6_Project Notes
-- [E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count)
-- [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_Post%20Template.md)
+- [E-book Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_E-book%20Template.md) -> needs plugin: [Better Word Count](https://github.com/lukeleppan/better-word-count) + -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [Post Template](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/6_Post%20Template.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
 
 ### Template Snippets
 - [Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Back%20Matter%20Snippet.md)
 - [Book Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Book%20Front%20Matter%20Snippet.md)
-- [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Dataview%20Table%20Snippet.md)
-- [DataviewJS Quote Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_DataviewJS%20Quote%20Snippet.md)
-- [E-book Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_E-book%20Back%20Matter%20Snippet.md)
+- [Dataview Table Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Dataview%20Table%20Snippet.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [DataviewJS Quote Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_DataviewJS%20Quote%20Snippet.md) -> needs plugin: [DataView](https://github.com/blacksmithgu/obsidian-dataview)
+- [E-book Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_E-book%20Back%20Matter%20Snippet.md) 
 - [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Front%20Matter%20Snippet.md)
 
 
