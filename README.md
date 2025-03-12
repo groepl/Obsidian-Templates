@@ -113,7 +113,7 @@ More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkaste
 - [How can I learn more about Obsidian and Zettelkasten?](https://github.com/groepl/Take-Useful-Notes)
 
 ## Creative Commons License
-[Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2022-24 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
+[Obsidian Templates](https://github.com/groepl/Obsidian-Templates) © 2022-25 by [Edmund Gröpl](https://github.com/groepl) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/.)
 
 ## Contact
 Please leave feedback here in the [GitHub discussions](https://github.com/groepl/Obsidian-Templates/discussions) or file a new issue if you found a bug or have a feature request. You can reach me via Mastodon too: [https://darmstadt.social/@groepl](https://darmstadt.social/@groepl)
