@@ -32,7 +32,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 - [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
 - [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
-### 11 Optional Obsidian Plugin
+### Eleven Optional Obsidian Plugin
 - [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 - [Banners](https://github.com/noatpad/obsidian-banners) - Adds banner images to your notes.
 - [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
