@@ -92,7 +92,7 @@ More about: https://forum.obsidian.md/t/link-notes-but-how/
 
 ## How to Use Tags
 <img src="/Visuals/use_tags_2024-12-23.png" width="700" /></a><br>
-More about: https://forum.obsidian.md/t/use-tags-but-how/
+More about: https://forum.obsidian.md/t/use-meta-data-but-how/
 
 ## How to Use Properties
 <img src="/Visuals/Metadata_2024-10-12.png" width="700" /></a><br>
