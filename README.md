@@ -108,7 +108,7 @@ More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkaste
 
 ## Zettelkasten Canvas
 <img src="/Visuals/Zettelkasten-Canvas_2025-07-23.png" width="700" />
-More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/51679/12
+More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/51679/13
 
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
