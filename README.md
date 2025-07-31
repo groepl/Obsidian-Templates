@@ -106,6 +106,10 @@ More about: https://forum.obsidian.md/t/search-and-retrieve-notes-how-do-you-sea
 <img src="/Visuals/Zettelkasten_Ontology.png" width="700" />
 More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkasten-in-obsidian/35008/32
 
+## Zettelkasten Canvas
+<img src="/Visuals/Zettelkasten-Canvas_2025-07-23.png" width="700" />
+More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/51679/12
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Properties with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Properties)
