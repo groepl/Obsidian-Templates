@@ -110,6 +110,11 @@ More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkaste
 <img src="/Visuals/Zettelkasten-Canvas_2025-07-23.png" width="700" />
 More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/51679/13
 
+## The Minimalist's Zettelkasten
+<video controls="" autoplay="" name="media">
+    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
+</video>
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Properties with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Properties)
