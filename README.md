@@ -115,6 +115,11 @@ More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/516
     <source src="https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting__Minimalism_and_the_Three_Co.m4a" type="audio/m4a">
 </video>
 
+<script>
+    var audio = new Audio('https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting__Minimalism_and_the_Three_Co.m4a?raw=true');
+    audio.play();
+</script>
+
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
 - [What are the rules for using Properties with YAML Frontmatter?](https://help.obsidian.md/Editing+and+formatting/Properties)
