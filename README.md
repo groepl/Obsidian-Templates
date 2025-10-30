@@ -112,7 +112,7 @@ More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/516
 
 ## The Minimalist's Zettelkasten
 <video controls="" autoplay="" name="media">
-    <source src="https://user.github.io/project/audio/sound.mp3" type="audio/mp3">
+    <source src="https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting__Minimalism_and_the_Three_Co.m4a" type="audio/m4a">
 </video>
 
 ## FAQ
