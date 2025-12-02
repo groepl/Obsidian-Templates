@@ -111,7 +111,7 @@ More about: https://forum.obsidian.md/t/limit-folders-how-do-you-use-zettelkaste
 More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/51679/13
 
 ## The Minimalist's Zettelkasten
-<img src="/Visuals/Minimalists_TitlePage_2025-11-27.png" width="300" />
+<img src="/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
 The provided [podcast from NotebookLM](https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting__Minimalism_and_the_Three_Co.m4a) consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less," authored by Edmund Gröpl and independently published in 2025. 
 
 ## FAQ
