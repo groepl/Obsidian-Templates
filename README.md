@@ -112,7 +112,7 @@ More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/516
 
 ## The Minimalist's Zettelkasten
 <img src="/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
-The provided [podcast from NotebookLM](https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting__Minimalism_and_the_Three_Co.m4a) consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less," authored by Edmund Gröpl and independently published in 2025. 
+The provided [podcast from NotebookLM](https://github.com/groepl/Obsidian-Templates/blob/main/Assets/The_Hidden_Cost_of_Over-Collecting_Minimalism_and_the_Three_Co.m4a) consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less," authored by Edmund Gröpl and independently published in 2025. 
 
 ## FAQ
 - [Where can I discuss my own experiences with these templates?](https://forum.obsidian.md/t/16-obsidian-templates-for-zettelkasten-to-start-with/)
