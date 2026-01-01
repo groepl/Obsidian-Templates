@@ -113,7 +113,7 @@ More about: https://forum.obsidian.md/t/12-principles-for-using-zettelkasten/516
 ## The Minimalist's Zettelkasten
 <img src="/Visuals/Minimalists_TitlePage_2025-11-27.png" width="200" />
 The provided podcast from NotebookLM consists of excerpts from a book titled "The Minimalist’s Zettelkasten: Think Better with Less", authored by Edmund Gröpl. It is set to be independently published in early 2026. 
-<br>
+<br><br>
 More about: https://github.com/groepl/Take-Useful-Notes/
 
 ## FAQ
