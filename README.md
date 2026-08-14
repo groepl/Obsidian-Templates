@@ -93,6 +93,8 @@ You first may have a look at my note examples created from these templates: [EXA
 - [E-book Back Matter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_E-book%20Back%20Matter%20Snippet.md) 
 - [Frontmatter Snippet](https://github.com/groepl/Obsidian-Templates/blob/main/Templates/x_Front%20Matter%20Snippet.md)
 
+## 1 Toolset, 5 Types of Notes
+<img src="/Visuals/Note_Categories_2026-08-11.png" width="500" />
 
 ## How to Use Links
 <img src="/Visuals/HowtoUseLinkswithTemplates_2026-07-02.jpg" width="500" />
