@@ -37,7 +37,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 3. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
 4. [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
 5. [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
-6. [Iconize](https://github.com/florianwoelki/obsidian-iconize) - 
+6. [Iconize](https://github.com/florianwoelki/obsidian-iconize) - Add icons to anything in Obsidian, including files, folders, and text.
 7. [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
 8. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
 9. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
