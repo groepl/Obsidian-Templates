@@ -37,11 +37,12 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 3. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
 4. [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
 5. [File Explorer Note Count](https://github.com/ozntel/file-explorer-note-count) - Shows number of elements under all available folders within file explorer.
-6. [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
-7. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
-8. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
-9. [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
-10. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
+6. Iconize
+7. [Homepage](https://github.com/mirnovov/obsidian-homepage) - Use any note, canvas, or workspace as a homepage
+8. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
+9. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
+10. [Table-to-CSV-Exporter](https://github.com/metawops/obsidian-table-to-csv-export) -  Exports table data from reading mode into a CSV file.
+11. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
   
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="500" />
