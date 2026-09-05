@@ -25,10 +25,10 @@ Copy templates to your Obsidian template folder location to make them available 
 Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit).
 
 ### 5 Mandatory Obsidian Plugins
-1. [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
-2. [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages.
-3. [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
-4. [Update Time on Edit](https://github.com/beaussan/update-time-on-edit-obsidian) - Saves the metadata of the file with the time it was updated.
+1. [Bases](https://obsidian.md/help/bases) - Lets you create database-like views of your notes. Using a base you can view, edit, sort, and filter files and their properties.
+2. [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
+3. [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages.
+4. [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 5. [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
 ### 10 Optional Obsidian Plugin
