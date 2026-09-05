@@ -25,7 +25,7 @@ Copy templates to your Obsidian template folder location to make them available 
 Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/groepl/Obsidian-Zettelkasten-Starter-Kit).
 
 ### 5 Mandatory Obsidian Plugins
-1. [Bases](https://obsidian.md/help/bases) - Lets you create database-like views of your notes. Using a base you can view, edit, sort, and filter files and their properties.
+1. [Bases](https://obsidian.md/help/bases) - Lets you create database-like views of your notes. Use to view, edit, sort, and filter files and their properties.
 2. [Book Search](https://github.com/anpigon/obsidian-book-search-plugin) - Easily creates book notes from Google Books API.
 3. [DataView](https://github.com/blacksmithgu/obsidian-dataview) - Provides a query language for filtering, sorting, and extracting data from Markdown pages.
 4. [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
