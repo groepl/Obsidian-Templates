@@ -94,7 +94,7 @@ You first may have a look at my note examples created from these templates: [EXA
 
 ## 1 Toolset, 5 Types of Notes
 <img src="/Visuals/Minimalist_Categories_2026-08-11.png" width="500" />
-More about: <a href="https://github.com/groepl/Obsidian-Templates/blob/main/Visuals/Minimalist_Categories_2026-08-11.png">Luhmann's Zettelkasten</a>
+More about: <a href="https://github.com/groepl/Obsidian-Templates/blob/main/Visuals/Luhmanns_Categories_2026-08-13.png">Luhmann's Zettelkasten</a> and <a href="https://github.com/groepl/Obsidian-Templates/blob/main/Visuals/Luhmanns_Categories_2026-08-13.png">Ahrens' Zettelkasten</a>
 
 ## How to Use Links
 <img src="/Visuals/HowtoUseLinkswithTemplates_2026-07-02.jpg" width="500" />
