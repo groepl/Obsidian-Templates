@@ -9,7 +9,7 @@ visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Prompt
-template_version: "1.24"
+template_version: "1.27"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -18,15 +18,17 @@ template_version: "1.24"
 
 <!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
 `= this.visual`
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+<small>_Edit: [[]]_</small>
 
 
-<!-- Detailed question from short title in front matter -->
-
+<!--  The prompt itself, from "lead"-key in properties section -->
 > [!Prompt]
 > `Prompt short:` `= this.lead`
 > `P: <prompt>`
 > `A: <answer>`
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 ---
 ##### Details

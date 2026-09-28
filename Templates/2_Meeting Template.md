@@ -1,42 +1,58 @@
 ---
 tags:
-  - type/permanent
-  - type/note
+  - type/literature
+  - type/meeting
   - theme/xyz
-lead: +++ lead paragraph goes here +++
+  - source/xyz
+lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
+meeting_date:
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.47"
+template_type: Meeting
+template_version: "1.35"
 ---
 <!--  See "Template Help" below for using properties -->
 
 # {{Title}}
-<!--  Clear and descriptive title -->
 
-<!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
-`= this.visual`
-<small>_Edit: [[]]_</small>
+<!-- Main content of my thoughts really -->
 
-<!--  Most essential idea from "lead"-key  in properties section -->
-> [!Note]
-> `= this.lead`  
-> 
-> _<small>Based on: `=this.based_on` 
-> Tags: `= this.tags`</small>_
-
-## Details
-<!-- elaboration, evidence, worked examples -->
+## Date & Time
+<!-- With starting and ending times -->
 - 
 
-##### Questions
-<!-- open, unresolved, provoked by this note — epistemic, not operational -->
+## Location
+<!-- Physical location or links to online meeting (Zoom, MS Teams, Miro etc.) -->
 - 
 
-##### Tasks
-<!-- operational follow-ups only -->
+## Participants
+<!-- List of meeting participants using linked names -->
 - 
+
+## Goals
+<!-- What we want to achieve in this meeting -->
+- 
+
+## Agenda 
+<!-- What, who & duration planned in advance -->
+- 
+
+## Discussion Notes
+<!-- Cover discussion topics -->
+- 
+
+## Action Items
+<!-- Add tasks, task owners and due dates -->
+- 
+
+## Decisions
+<!-- Record of decisions you make in this meeting -->
+- Next meeting date and place: 
+- Documents to be included in the meeting notes:
+
+
+
 
 ---
 # Back Matter
@@ -52,7 +68,6 @@ template_version: "1.47"
 **_Context_**
 <!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
 - scene:: 
-- context:: 
 
 **_Terms_**
 <!-- optional link to [[literature note]] with term & definition. -->

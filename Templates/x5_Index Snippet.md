@@ -1,5 +1,5 @@
-<!-- Index table for 5_Structure Notes. Use as example and modify. -->
-<!-- template_version: "0.1" -->
+<!-- "Index Entries" for 5_Structure Notes. Use as example and modify. -->
+<!-- template_version: "0.2" -->
 ```dataview
 TABLE WITHOUT ID
 	file.link as Terms, 

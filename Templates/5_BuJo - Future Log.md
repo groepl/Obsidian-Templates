@@ -5,13 +5,11 @@ tags:
   - structure/bujo
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-banner: "![[banner_bujo.JPG]]"
-banner_x: 0.5
 template_type: BuJo Future
-template_version: "1.154"
+template_version: "1.16"
 ---
 <!--  See "Template Help" below for using properties -->
-
+![[banner_bujo.JPG]]
 # Future Log {{Title}}
 
 <!-- Main STRUCTURE of my content -->

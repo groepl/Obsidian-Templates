@@ -4,16 +4,14 @@ tags:
   - type/person
   - role/xyz
   - theme/xyz
-aliases:
 birth:
 death:
-bio_short:
-lead: +++ Term definition goes here +++
+lead: +++ lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Person
-template_version: "1.25"
+template_version: "1.28"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -22,8 +20,11 @@ template_version: "1.25"
 ##  Bio
 <!-- Short biography of the AUTHOR -->
 
-> [!Bio short]
-> `= this.bio_short`
+> [!Bio]
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 
 

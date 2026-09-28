@@ -3,32 +3,30 @@ tags:
   - type/literature
   - type/term
   - theme/xyz
-aliases:
 lead: +++ Term definition goes here +++
 source: +++ source undefined +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Term
-template_version: "1.28"
+template_version: "1.30"
 ---
 
 # {{Title}}
 <!--  Clear and descriptive title -->
 
-<!-- A supporting visual from front matter if available -->
+<!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
+`= this.visual`
+<small>_Edit: [[]]_</small>
 
-```dataviewjs 
-dv.paragraph(dv.current().visual);
-```
-<small>_Zoom: [[]] | Edit: [[]]_</small>
-
-<!-- Term definition and source from front matter goes here. Also used for Dataview glossary. -->
+<!-- Term definition and source, from "lead"- and "source"-keys in properties section. Also used for Dataview glossary. -->
 
 > [!Definition]
 > `= this.lead`
 >  — `= this.source`
-
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 <!-- Additional term description if needed -->
 
 

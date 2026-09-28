@@ -3,21 +3,22 @@ tags:
   - type/literature
   - type/tool
   - theme/xyz
-aliases:
 lead: +++ Term definition goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Tool
-template_version: "1.26"
+template_version: "1.29"
 ---
 
 # {{Title}}
 
-<!-- Short description of TOOL goes here -->
-
-> [!Note]
-> `= this.lead`
+<!-- Short description of TOOL, from "lead"-key in properties section -->
+> [!Tool]
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 
 ## Usage

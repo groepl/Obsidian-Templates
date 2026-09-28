@@ -1,5 +1,5 @@
-
-<!-- DataviewJS for random quotes. Use as example and modify -->
+<!-- "Random Quotes" (DataviewJS) for 5_Structure Notes. Use as example and modify. -->
+<!-- template_version: "0.3" -->
 > [!Quote]
 > ```dataviewjs 
 > // List of quotes 

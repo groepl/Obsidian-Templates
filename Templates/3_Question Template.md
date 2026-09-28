@@ -8,7 +8,7 @@ visual: "![[image.jpg|300]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Question
-template_version: "1.02"
+template_version: "1.04"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -17,11 +17,14 @@ template_version: "1.02"
 
 <!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
 `= this.visual`
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+<small>_Edit: [[]]_</small>
 
-<!--  Most essential idea from "lead"-key  in properties section -->
+<!--  The question itself, from "lead"-key in properties section -->
 > [!Question]
-> `= this.lead`
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 ---
 ##### Details

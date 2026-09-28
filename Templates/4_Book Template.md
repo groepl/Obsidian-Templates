@@ -4,7 +4,6 @@ tags:
   - type/chapter 
   - theme/xyz
   - target/ebook 
-aliases:
 visual: "![[IMAGE.png]]"
 title_short: "e1"
 rule: +++ Add simple rule here +++
@@ -20,7 +19,7 @@ published:
 views: 0
 feedbacks: 0
 template_type: Book
-template_version: "1.30"
+template_version: "1.31"
 ---
 <!--  
 status: draft, final, published, revised 

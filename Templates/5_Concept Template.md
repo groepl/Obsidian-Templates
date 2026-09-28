@@ -1,14 +1,13 @@
 ---
 tags:
-  - type/permanent
-  - type/note
-  - theme/xyz
-lead: +++ lead paragraph goes here +++
+  - type/structure
+  - structure/concept
+lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.47"
+template_type: Concept
+template_version: "0.04"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -16,27 +15,24 @@ template_version: "1.47"
 <!--  Clear and descriptive title -->
 
 <!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
+
 `= this.visual`
 <small>_Edit: [[]]_</small>
 
-<!--  Most essential idea from "lead"-key  in properties section -->
-> [!Note]
+<!--  Summarized structure from "lead"-key  in properties section -->
+
+> [!Concept]
 > `= this.lead`  
 > 
 > _<small>Based on: `=this.based_on` 
 > Tags: `= this.tags`</small>_
 
-## Details
-<!-- elaboration, evidence, worked examples -->
+## Structure
+<!-- Main STRUCTURE of my content -->
 - 
 
-##### Questions
-<!-- open, unresolved, provoked by this note — epistemic, not operational -->
-- 
 
-##### Tasks
-<!-- operational follow-ups only -->
-- 
+
 
 ---
 # Back Matter

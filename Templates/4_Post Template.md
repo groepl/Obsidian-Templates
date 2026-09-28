@@ -15,7 +15,7 @@ feedbacks: 0
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Post
-template_version: "1.37"
+template_version: "1.41"
 ---
 
 # Post - {{Title}}
@@ -25,7 +25,7 @@ template_version: "1.37"
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+<small>_Edit: [[]]_</small>
 
 <!-- Main content of this story -->
 ✨ **Title**
@@ -39,7 +39,7 @@ Thanks very much! I really appreciate you reading my work. If you enjoyed it and
 . . .  
 
 **Tags**
-- [[Tags for LinkedIn]]
+- 
 
 
 **Feedback**
@@ -53,18 +53,6 @@ Thanks very much! I really appreciate you reading my work. If you enjoyed it and
 **Questions**
 <!-- What remains for you to consider in the draft version? --> 
 - 
-
-**Latest Posts**
-<!-- Links to chapters from e-book -->
-
-```dataview
-TABLE 
-	file.cday AS "Date"
-FROM #target/linkedin 
-SORT file.cday DESC
-LIMIT 10
-```
-
 
 ---
 # Back Matter

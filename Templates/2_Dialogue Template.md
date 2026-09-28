@@ -1,14 +1,15 @@
 ---
 tags:
-  - type/permanent
-  - type/note
+  - type/literature
+  - type/dialogue
   - theme/xyz
+  - source/xyz
 lead: +++ lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.47"
+template_type: Dialogue
+template_version: "0.03"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -26,7 +27,9 @@ template_version: "1.47"
 > _<small>Based on: `=this.based_on` 
 > Tags: `= this.tags`</small>_
 
-## Details
+
+---
+##### Details
 <!-- elaboration, evidence, worked examples -->
 - 
 

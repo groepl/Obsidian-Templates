@@ -3,13 +3,12 @@ tags:
   - type/literature
   - type/recipe
   - theme/cooking
-aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Receipe
-template_version: "1.17"
+template_version: "1.19"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -17,8 +16,11 @@ template_version: "1.17"
 
 <!-- Main content of my thoughts really -->
 
-> [!Note]
-> `= this.lead`
+> [!Receipe]
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 ## Incredience
 

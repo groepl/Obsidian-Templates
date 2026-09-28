@@ -1,14 +1,14 @@
 ---
 tags:
-  - type/permanent
-  - type/note
+  - type/literature
+  - type/bibliographical
   - theme/xyz
 lead: +++ lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.47"
+template_type: Bibilographical
+template_version: "1.02"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -17,7 +17,7 @@ template_version: "1.47"
 
 <!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
 `= this.visual`
-<small>_Edit: [[]]_</small>
+<small>_Zoom: [[]] | Edit: [[]]_</small>
 
 <!--  Most essential idea from "lead"-key  in properties section -->
 > [!Note]
@@ -26,7 +26,9 @@ template_version: "1.47"
 > _<small>Based on: `=this.based_on` 
 > Tags: `= this.tags`</small>_
 
-## Details
+
+---
+##### Details
 <!-- elaboration, evidence, worked examples -->
 - 
 

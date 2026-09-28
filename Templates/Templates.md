@@ -3,7 +3,7 @@ tags:
   - type/structure
   - structure/list
 aliases:
-lead: "Latest Update at GitHub: v10.1.0 - 10.02.2025"
+lead: "Latest Update at GitHub: v11.0.0 - 14.07.2026"
 visual: "![[image.jpg]]"
 created: 2026-06-14, 12:44
 modified: 2026-06-14, 12:44
@@ -137,11 +137,12 @@ https://github.com/groepl/Obsidian-Templates
 
 **Terms**
 <!-- Links to definition pages. -->
-- term:: 
+- term:: [[Template]] at Merriam-Webster
 
 **Target**
 <!-- Link to project note or externally published content. -->
-- used_in::
+- used_in:: [[Version History - Obsidian Templates]]
+- used_in:: [[Project Log - Obsidian Templates]]
 
 ---
 **Tasks**

@@ -7,8 +7,8 @@ lead: +++ lead paragraph goes here +++
 visual: "![[image.jpg|300]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Note
-template_version: "1.02"
+template_type: Proposition
+template_version: "1.06"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -17,11 +17,14 @@ template_version: "1.02"
 
 <!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
 `= this.visual`
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+<small>_Edit: [[]]_</small>
 
-<!--  Most essential idea from "lead"-key  in properties section -->
+<!--  The proposition itself, from "lead"-key in properties section -->
 > [!Proposition]
-> `= this.lead`
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 ---
 ##### Details
@@ -49,7 +52,7 @@ template_version: "1.02"
 
 **_Context_**
 <!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
-- scene:: 
+- context:: 
 
 **_Terms_**
 <!-- optional link to [[literature note]] with term & definition. -->

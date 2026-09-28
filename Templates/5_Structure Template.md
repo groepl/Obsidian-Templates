@@ -2,31 +2,33 @@
 tags:
   - type/structure
   - structure/xyz
-aliases: 
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Structure
-template_version: "1.21"
+template_version: "1.24"
 ---
 <!--  See "Template Help" below for using properties -->
 
 # {{Title}}
 <!--  Clear and descriptive title -->
 
-<!-- Visual or sketchnote if available -->
+<!-- Visual if available from "visual"-key in properties section. Delete this block if there is none. -->
 
-```dataviewjs 
-dv.paragraph(dv.current().visual);
-```
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+`= this.visual`
+<small>_Edit: [[]]_</small>
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
 > [!Note]
-> `= this.lead`
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
+
+##### Structure
 <!-- Main STRUCTURE of my content -->
 - 
 

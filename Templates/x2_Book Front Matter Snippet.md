@@ -3,7 +3,6 @@ tags:
   - type/literature
   - type/book
   - theme/xyz
-aliases:
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 title:
@@ -30,7 +29,7 @@ status: undefined
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Book
-template_version: "1.17"
+template_version: "1.18"
 license: © 2022-2025 by Edmund Gröpl under CC BY-NC-SA 4.0
 ---
 <!-- 

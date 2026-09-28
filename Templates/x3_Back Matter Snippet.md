@@ -12,7 +12,7 @@
 
 **_Context_**
 <!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
-- scene:: 
+- context:: 
 
 **_Terms_**
 <!-- optional link to [[literature note]] with term & definition. -->

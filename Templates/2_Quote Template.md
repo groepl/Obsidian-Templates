@@ -3,16 +3,14 @@ tags:
   - type/literature
   - type/quote
   - theme/xyz
-aliases:
 lead:
-quote:
 author:
 year:
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Quote
-template_version: "1.22"
+template_version: "1.24"
 ---
 
 # {{Title}}
@@ -20,13 +18,12 @@ template_version: "1.22"
 <!-- Quote and author from frontmatter goes here. Also used for Dataview list of quotes. -->
 
 > [!QUOTE]
->  `= this.quote`
+>  `= this.lead`
 >  — `= this.author`
-
-
-
-
-
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
+> 
 ---
 # Back Matter
 

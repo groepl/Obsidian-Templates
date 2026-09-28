@@ -1,8 +1,8 @@
 ---
 tags: 
-- type/book
-- theme/xyz
-aliases: 
+  - type/literature
+  - type/book
+  - theme/xyz
 lead: +++ Lead paragraph goes here +++
 visual: "![[image.jpg]]"
 title: "{{title}}"
@@ -29,7 +29,7 @@ status: undefined
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Book
-template_version: "1.26"
+template_version: "1.28"
 ---
 <!-- 
 rating: ⭐️⭐️⭐️    // 1 to 3 stars
@@ -49,6 +49,9 @@ by [[{{author}}]]
 
 > [!summary]
 {{description}}
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 ## Table of Contents
 <!--Link to table of contents (TOC) -->

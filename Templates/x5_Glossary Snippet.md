@@ -1,5 +1,5 @@
-<!-- Glossary table for 5_Structure Notes. Use as example and modify. -->
-<!-- template_version: "0.1" -->
+<!-- "Glossary Entries" for 5_Structure Notes. Use as example and modify. -->
+<!-- template_version: "0.3" -->
 ```dataview
 TABLE WITHOUT ID
 	file.link as Terms, 

@@ -1,62 +1,21 @@
----
-tags:
-  - type/project
-  - type/post
-  - theme/xyz
-  - target/linkedin
-  - target/forumobsidian
-  - target/forumzettelkasten
-  - target/reddit
-visual: "![[image.jpg]]"
-lead: +++ Lead paragraph goes here +++
-published:
-views: 0
-feedbacks: 0
-created: {{DATE:YYYY-MM-DD, HH:mm}}
-modified: {{DATE:YYYY-MM-DD, HH:mm}}
-template_type: Comment
-template_version: "1.37"
----
-
-# Comment - {{Title}}
-<!--  Clear and descriptive title -->
-
-<!-- My sketchnote if available -->
-```dataviewjs 
-dv.paragraph(dv.current().visual);
-```
-<small>_Edit: [[]]_</small>
-
-<!-- Main content of this story -->
-### Post
 
 
-### Reply
-
-
-**Feedback**
-<!-- Any critique, ideas or questions from social media or other audience? --> 
-- 
 
 **Tasks**
 <!-- What remains to be done do get the final version? --> 
-- 
 
-**Questions**
+- [ ] Prepare final version 
+- [ ] Publish on GitHub
+- [ ] Review and revise
+
+**Feedback**
 <!-- What remains for you to consider in the draft version? --> 
+**0.14**
 - 
 
----
-**Latest Posts**
+**Table of Content**
 <!-- Links to chapters from e-book -->
-
-```dataview
-TABLE 
-	file.cday AS "Date"
-FROM #target/linkedin 
-SORT file.cday DESC
-LIMIT 10
-```
+- [004 - Contents](004%20-%20Contents.md)
 
 
 ---
@@ -72,7 +31,7 @@ LIMIT 10
 
 **_Context_**
 <!-- the scene at capture — see Subjective Context Principle. Optional but preferred. -->
-- scene:: 
+- context:: 
 
 **_Terms_**
 <!-- optional link to [[literature note]] with term & definition. -->

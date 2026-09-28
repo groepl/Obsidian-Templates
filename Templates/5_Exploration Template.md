@@ -2,13 +2,12 @@
 tags:
   - type/structure
   - structure/exploration
-aliases: 
 lead: +++ What are you trying to understand, solve, or explore? +++
 visual: "![[image.jpg]]"
 created: {{DATE:YYYY-MM-DD, HH:mm}}
 modified: {{DATE:YYYY-MM-DD, HH:mm}}
 template_type: Exploration
-template_version: "1.02"
+template_version: "1.03"
 ---
 <!--  See "Template Help" below for using properties -->
 
@@ -20,12 +19,16 @@ template_version: "1.02"
 ```dataviewjs 
 dv.paragraph(dv.current().visual);
 ```
-<small>_Zoom: [[]] | Edit: [[]]_</small>
+<small>_Edit: [[]]_</small>
 
 <!--  Summarized structure from "lead"-key  in properties section -->
 
-> [!1. Central Exploration Question]
-> `= this.lead`
+**1. Central Exploration Question**
+> [!Note]
+> `= this.lead`  
+> 
+> _<small>Based on: `=this.based_on` 
+> Tags: `= this.tags`</small>_
 
 <!-- Main STRUCTURE of my Exploration Map -->
 <!-- An **exploration map** is a visual or conceptual tool used to **organize and guide inquiry**, especially when dealing with **open-ended, complex, or unfamiliar subjects**. It's commonly used in problem-solving, learning, research, or creative thinking. -->
