@@ -39,7 +39,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 5. [Iconize](https://github.com/florianwoelki/obsidian-iconize) - Add icons to anything in Obsidian, including files, folders, and text.
 6. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
 7. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
-8. [Sortable](https://github.com/alexandru-dinu/obsidian-sortable)
+8. [Sortable](https://github.com/alexandru-dinu/obsidian-sortable) - Offers Wikipedia-like sortable tables. (no longer supported!)
 9. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
   
 ## Basic Template Structure
