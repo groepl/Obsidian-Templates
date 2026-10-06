@@ -31,7 +31,7 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 4. [Frontmatter Tag Suggest](https://github.com/jmilldotdev/obsidian-frontmatter-tag-suggest) - Autocompletes tags in the YAML frontmatter.
 5. [Wikipedia](https://github.com/jmilldotdev/obsidian-wikipedia) - Gets the first section of Wikipedia and pastes it into your active note.
 
-### 10 Optional Obsidian Plugin
+### 9 Optional Obsidian Plugin
 1. [Auto Link Title](https://github.com/zolrath/obsidian-auto-link-title) - Fetches the webpage to extract link titles when they're pasted, creating a markdown link with the correct title set.
 2. [Callout Manager](https://github.com/eth-p/obsidian-callout-manager) - Creating and configuring callouts.
 3. [Charts](https://github.com/phibr0/obsidian-charts) - Easily create interactive charts for your notes. 
@@ -39,7 +39,8 @@ Or use it as part of the [Obsidian-Zettelkasten-Starter-Kit](https://github.com/
 5. [Iconize](https://github.com/florianwoelki/obsidian-iconize) - Add icons to anything in Obsidian, including files, folders, and text.
 6. [Paste image rename](https://github.com/reorx/obsidian-paste-image-rename) - Allows to rename the image if you want images to be named and organized clearly.
 7. [PlantUML](https://github.com/joethei/obsidian-plantuml) - Renders PlantUML Diagrams in Obsidian.
-8. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
+8. Sortable
+9. [Tag Wrangler](https://github.com/pjeby/tag-wrangler) - Rename, merge, toggle, and search the tag pane.
   
 ## Basic Template Structure
 <img src="/Visuals/IMG_0934.png" width="500" />
